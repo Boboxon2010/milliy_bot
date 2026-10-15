@@ -43,3 +43,6 @@ async def init_db():
 
             # 4. user_errors jadvaliga user_answer qo'shish
             await conn.execute(text("ALTER TABLE user_errors ADD COLUMN IF NOT EXISTS user_answer VARCHAR(255)"))
+
+            # 5. tests jadvaliga image_path qo'shish
+            await conn.execute(text("ALTER TABLE tests ADD COLUMN IF NOT EXISTS image_path VARCHAR(500)"))

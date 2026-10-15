@@ -33,6 +33,7 @@ class Test(Base):
     option_d = Column(String(255), nullable=True)
     correct_answer = Column(Text, nullable=False)
     explanation = Column(Text, default="", nullable=True)
+    image_path = Column(String(500), nullable=True)
 
 
 class TestResult(Base):

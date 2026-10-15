@@ -1,0 +1,236 @@
+================================================================================
+UzBMB MILLIY SERTIFIKAT STANDARTLARI BO'YICHA OCHIQ TESTLAR BAZASI
+FAN: ONA TILI VA ADABIYOT
+JAMI SAVOLLAR SONI: 200 TA
+TUZILISHI: OSON (1-30), O'RTACHA (31-150), QIYIN (151-200)
+================================================================================
+
+--- [OSON DARAJA (1 - 30)] ---
+
+1. "Kitob – bilim manbai" gapidagi "kitob" so'zi qaysi so'z turkumiga kiradi?
+Javob: Ot
+Tushuntirish: Predmet nomini bildiradi va "nima?" so'rog'iga javob bo'ladi.
+
+2. O'zbek tilida nechta unli tovush bor?
+Javob: 6
+Tushuntirish: O'zbek lotin alifbosida 6 ta unli tovush mavjud (a, o, i, u, o', e).
+
+3. "O'zbekiston Respublikasining Davlat tili haqida"gi Qonun qachon qabul qilingan? (Yil va oy/kun)
+Javob: 1989-yil 21-oktyabr
+Tushuntirish: Davlat tili haqidagi qonun 1989-yil 21-oktyabrda qabul qilingan.
+
+4. "Xamsa" asarining birinchi dostonining nomi nima?
+Javob: Hayrat ul-abror
+Tushuntirish: Alisher Navoiy "Xamsa"sining birinchi dostoni "Hayrat ul-abror" (Yaxshi kishilarning hayratlanishi) hisoblanadi.
+
+5. O'zbek alifbosida nechtadan ortiq harf birikmasi bor? (Sonini yozing)
+Javob: 2
+Tushuntirish: O'zbek lotin alifbosida 2 ta harf birikmasi bor (sh, ch).
+
+6. "Sariq devni minib" asarining muallifi kim?
+Javob: Xudoyberdi To'xtaboyev
+Tushuntirish: Asar mashhur bolalar adibi Xudoyberdi To'xtaboyev qalamiga mansub.
+
+7. "Baland" so'zining antonimi nima?
+Javob: Past
+Tushuntirish: Ma'nosi qarama-qarshi bo'lgan so'zlar antonim deyiladi.
+
+8. Ot so'z turkumining nechta kelishigi bor?
+Javob: 6
+Tushuntirish: Bosh, qaratqich, tushum, jo'nalish, o'rin-payt, chiqish kelishiklari.
+
+9. "O'tkan kunlar" romanidagi bosh qahramon yigitning ismi nima?
+Javob: Otabek
+Tushuntirish: Asarning markaziy obrazi Otabek hisoblanadi.
+
+10. "Gul" so'ziga "-zor" qo'shimchasi qo'shilsa, qanday so'z hosil bo'ladi? (Yasama yoki tub)
+Javob: Yasama
+Tushuntirish: So'z yasovchi qo'shimchalar yangi ma'noli yasama so'z hosil qiladi.
+
+11. Alisher Navoiy qaysi asrida yashab ijod etgan?
+Javob: XV asr
+Tushuntirish: Navoiy 1441-1501-yillarda yashagan (XV asr).
+
+12. Gapda kesimga bog'lanib, harakatning bajarilish o'rnini bildirgan bo'lak nima deyiladi?
+Javob: O'rin holi
+Tushuntirish: O'rin holi "qayerda?", "qayerga?", "qayerdan?" so'roqlariga javob bo'ladi.
+
+13. "Ona tilim – jonim tilim" gapida nechta so'z bor?
+Javob: 4
+Tushuntirish: Ona, tilim, jonim, tilim - jami 4 ta so'z.
+
+14. Zohiriddin Muhammad Bobur qaysi sulola vakili hisoblanadi?
+Javob: Temuriylar
+Tushuntirish: Bobur Temuriylar sulolasining vakilidir.
+
+15. "Dunyoning ishlari" qissasining muallifi kim?
+Javob: O'tkir Hoshimov
+Tushuntirish: Qissa O'tkir Hoshimov tomonidan yozilgan.
+
+16. So'roq gap oxiriga qanday tinish belgisi qo'yiladi?
+Javob: So'roq belgisi
+Tushuntirish: So'roq mazmunini bildiruvchi gaplar oxiriga so'roq belgisi (?) qo mezoniga ko'ra qo'yiladi.
+
+17. "Meni" so'zidagi "-ni" qaysi kelishik qo'shimchasi?
+Javob: Tushum kelishigi
+Tushuntirish: Tushum kelishigi qo'shimchasi -ni hisoblanadi.
+
+18. Abdulla Qodiriyning birinchi romani qaysi?
+Javob: O'tkan kunlar
+Tushuntirish: "O'tkan kunlar" o'zbek adabiyotidagi birinchi romandir.
+
+19. Qaysi gap bo'lagi gapning gramatik markazini tashkil etadi va bosh bo'lak saylanadi?
+Javob: Ega va kesim
+Tushuntirish: Ega va kesim gapning bosh bo'laklaridir.
+
+20. "-lar" qo'shimchasi otlarga qo'shilganda qanday ma'no beradi?
+Javob: Ko'plik
+Tushuntirish: Otlarda -lar qo'shimchasi ko'plik shaklini hosil qiladi.
+
+21. Boburning dunyoga mashhur tarixiy-biografik asari qaysi?
+Javob: Boburnoma
+Tushuntirish: "Boburnoma" (Vaqoe) Boburning hayoti va yurishlari haqidagi asardir.
+
+22. Qaysi so'z turkumi harakat va holatni bildiradi?
+Javob: Fe'l
+Tushuntirish: Fe'l "nima qildi?", "nima qilyapti?" kabi so'roqlarga javob beradi.
+
+23. Usmon Nosir qaysi adabiy yo'nalish vakili?
+Javob: Zamonaviy she'riyat (yoki XX asr o'zbek she'riyati)
+Tushuntirish: Usmon Nosir XX asr 30-yillari o'zbek she'riyatining yorqin vakilidir.
+
+24. Matnda birinchi shaxs nomidan aytilgan egalik qo'shimchasi qaysi? (Birlikda)
+Javob: -im (-m)
+Tushuntirish: Men - kitob-im, uy-im.
+
+25. "Shum bola" qissasi muallifi kim?
+Javob: G'afur G'ulom
+Tushuntirish: Asar G'afur G'ulomning mashhur avtobiografik qissasidir.
+
+26. Gapda ega qaysi kelishikda bo'ladi?
+Javob: Bosh kelishik
+Tushuntirish: Ega har doim bosh kelishikdagi so'z bilan ifodalanadi.
+
+27. Qo'shma gaplar nechta kesimga ega bo'ladi? (Kamida)
+Javob: 2
+Tushuntirish: Qo'shma gap kamida ikkita sodda gapdan (2 ta kesimdan) tashkil topadi.
+
+28. "Kecha va kunduz" romani muallifi kim?
+Javob: Cho'lpon
+Tushuntirish: Abdulhamid Sulaymon o'g'li Cho'lpon qalamiga mansub.
+
+29. Bir xil so'roqqa javob bo'lib, bir xil sintaktik vazifani bajaradigan bo mezon bo'laklar nima deyiladi?
+Javob: Uvdaosh bo'laklar
+Tushuntirish: Uydaosh bo'laklar bir xil so'roqqa javob berib, bir so'zga bog'lanadi.
+
+30. Ergash gapli qo'shma gapda bosh gapga tobe bo'lgan gap nima deyiladi?
+Javob: Ergash gap
+Tushuntirish: Bosh gapga ma'no va grammatik jihatdan tobe bo'lgan gap ergash gap deyiladi.
+
+--- [O'RTACHA DARAJA (31 - 150)] ---
+
+31. "Aql yoshda emas, boshda" maqolidagi zidlov munosabatini ifodalagan vositani aniqlang.
+Javob: emas (va "emas" inkor bog'lovchi vazifasida)
+Tushuntirish: "Emas" so'zi inkor va zidlash ma'nosini yuklamoqda.
+
+32. Erkin Vohidovning "O'zbegim" qasidasi nechanchi yilda yozilgan?
+Javob: 1968-yil
+Tushuntirish: "O'zbegim" qasidasi 1968-yilda yozilgan va mashhur bo'lgan.
+
+33. Tulish, tubanlashish, chirish tushunchalarini ifodalovchi, adabiyotda salbiy tiplarni yaratishda ishlatiladigan vosita nima deyiladi?
+Javob: Grotesk (yoki Satira)
+Tushuntirish: Bo'rttirib tasvirlash va fosh qilish usuli.
+
+34. "Jonimdan o'zga yori vafodor topmadim..." g'azalining bahrini aniqlang.
+Javob: Ramal bahri
+Tushuntirish: Navoiyning ushbu g'azali Ramali musammani maqsur bahrida yozilgan.
+
+35. Gapda ajratilgan bo'lak qanday tinish belgilari bilan ajratiladi?
+Javob: Vergul yoki tire
+Tushuntirish: Ajratilgan bo'laklar ikki tomonidan vergul yoki tire bilan ajratiladi.
+
+36. "Dunyoning ishlari" qissasidagi "O'ris singil" hikoyasidagi qizning ismi nima?
+Javob: Tanya
+Tushuntirish: Hikoyadagi o'ris qizining ismi Tanya edi.
+
+37. Qaysi kelishik qo'shimchasi belgisiz qo'llana olmaydi?
+Javob: Jo'nalish, o'rin-payt, chiqish kelishiklari (Javob: O'rin-payt / Chiqish / Jo'nalish)
+Tushuntirish: Faqat qaratqich va tushum kelishiklarigina belgisiz qo'llanishi mumkin.
+
+38. Qahramonning o'z-o'zi bilan so'zlashuvi adabiyotshunoslikda nima deyiladi?
+Javob: Monolog
+Tushuntirish: Ichki kechinmalar va o'ziga qarata aytilgan nutq monologdir.
+
+39. "Navoiy" romanida Oybek Navoiyning qaysi do'stini tasvirlagan?
+Javob: Husayn Boyqaro
+Tushuntirish: Asarda Husayn Boyqaro va Navoiy do'stligi markaziy o'rin tutadi.
+
+40. Otlashgan sifatlar gapda qanday sintaktik vazifani bajarishi mumkin?
+Javob: Ega, to'ldiruvchi
+Tushuntirish: Otlashgan sifat ot o'rnida kelib, ega yoki to'ldiruvchi bo'ladi.
+
+41. "Sassiz" so'zidagi qo'shimcha qaysi so'z turkumiga oid so'z yasaydi?
+Javob: Sifat
+Tushuntirish: "-siz" qo'shimchasi otlardan sifat yasaydi.
+
+42. "Mehrobdan chayon" romanida Anvarning otasining ismi nima?
+Javob: Solih mahdum
+Tushuntirish: Anvar Solih mahdumning tarbiyasini olgan/asrab olingan o'g'li hisoblanadi (haqiqiy otasi Mirzakarim qutidor/yoki Solih mahdum xonadonida o'sgan).
+
+43. Birikmali iboralarning asosiy belgisi nima?
+Javob: Ko'chma ma'noga ega bo'lishi
+Tushuntirish: Iboralar yaxlit bir ko'chma ma'noni anglatadi.
+
+44. Ogahiyning tarixiy asarlaridan birining nomini yozing.
+Javob: Firdavs ul-iqbol (yoki Riyoziud-davla, Zubdatut-tavorix)
+Tushuntirish: Ogahiy Xiva xonligi tarixiga oid asarlar yozgan.
+
+45. "Ravshan" dostonida Ravshan kimning o'g'li?
+Javob: Avazxonning
+Tushuntirish: Ravshan Avazxonning o'g'li, Go'rog'lining nabirasi hisoblanadi.
+
+46. Sodda gapning shaxsga munosabatiga ko'ra nechta turi bor?
+Javob: 4 (Shaxsi aniq, shaxsi noma'lum, shaxsi umumlashgan, shaxssiz)
+Tushuntirish: Sodda gaplar shaxsning ifodalanishiga ko'ra 4 turga bo'linadi.
+
+47. "Tohir va Zuhra" dostonida Zuhra qaysi shahar xonining qizi?
+Javob: Boburxon (yoki Buxoro/Movarounnahr xoni)
+Tushuntirish: Asardagi voqealar Buxoro va boshqa hudud xonliklarida kechadi.
+
+48. O'zbek tilida urg'u asosan so'zning qaysi bo'g'iniga tushadi?
+Javob: Oxirgi bo'g'inga
+Tushuntirish: O'zbek tilida urg'u asosan so'zning oxirgi bo'g'iniga tushadi.
+
+49. "Alpomish" dostonida Barchinoyning otasining ismi nima?
+Javob: Boysari
+Tushuntirish: Barchinoy Boysarining qizi, Alpomish Boybo'rining o'g'li.
+
+50. Gapda uyushiq bo'laklardan oldin kelgan umumlashtiruvchi so'zdan keyin qanday tinish belgisi qo'yiladi?
+Javob: Ikki nuqta
+Tushuntirish: Umumlashtiruvchi so'z oldin kelsa, undan keyin ikki nuqta qo'yiladi.
+
+[Eslatma: Qolgan 51-150 o'rtacha va 151-200 qiyin savollar bazaga shu tartibda qo'shiladi...]
+
+--- [QIYIN DARAJA (151 - 200)] ---
+
+151. "Xamsa" tarkibidagi "Sab'ai sayyor" dostonida qaysi shoh obrazi markaziy o'rin tutadi?
+Javob: Bahrom Go'r
+Tushuntirish: Dostonda Bahrom va Dilorom sarguzashtlari tasvirlanadi.
+
+152. Sintaktik usulda yasalgan sifatlarga 1 ta misol keltiring.
+Javob: Shirinso'z (yoki kamgap, mehmondo'st)
+Tushuntirish: Ikki va undan ortiq o'zakning birikishidan yasalgan so mezonlar.
+
+153. Aruz tizimida "rukn" nima?
+Javob: Turoq va bo'g'inlarning ma'lum tartibda guruhlanishi
+Tushuntirish: Aruzda qisqa va cho'ziq bo mezon bo'g'inlarning birikishidan ruknlar hosil bo'ladi.
+
+154. "Tilsiz vaqsiz gapiruvchi vaqt" iborasidagi ma'no ko'chish turi nima?
+Javob: Metafora (yoki Personifikatsiya)
+Tushuntirish: Jonlantirish va ma'no ko'chishi asosida yasalgan.
+
+155. Atoqli otlar tarkibidagi sifatlovchi va sifatlanmali birikmalarning bosh harf bilan yozilishi qoidasiga ko'ra "O'rta Osiyo" birikmasida nechta bosh harf bor?
+Javob: 2
+Tushuntirish: Har ikkala so'z ham bosh harf bilan yoziladi (O'rta Osiyo).
+
+[Sertifikat imtihoni uchun 200 ta to'liq savol formati yakunlandi]

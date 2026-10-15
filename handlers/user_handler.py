@@ -129,12 +129,13 @@ async def cmd_my_results(message: Message):
         
         status_label = "🟢 <b>To'liq yakunlangan</b>" if is_comp else f"🟡 <b>Chala/Tugatilgan ({ans_count}/{r.total_questions})</b>"
 
+        sana = r.created_at.strftime("%Y-%m-%d %H:%M") if r.created_at else "Noma'lum"
         text += (
             f"<b>{idx}. Fan: {r.subject}</b>\n"
             f"   Holat: {status_label}\n"
             f"   ✅ To'g'ri javoblar: {r.correct_count} / {ans_count} ta\n"
             f"   ⭐ To'plangan ball: <b>{r.score} ball</b>\n"
-            f"   📅 Sana: <code>{r.created_at.strftime('%Y-%m-%d %H:%M')}</code>\n"
+            f"   📅 Sana: <code>{sana}</code>\n"
             f"----------------------------------\n"
         )
 
