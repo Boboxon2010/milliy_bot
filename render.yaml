@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: uzbmb-mock-bot
+    name: sertifikatmockbot
     env: python
     region: frankfurt
     plan: free
