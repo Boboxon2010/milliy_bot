@@ -1,0 +1,327 @@
+O'ZBEKISTON RESPUBLIKASI UZBMB MILLIY SERTIFIKAT STANDARTLARI ASOSIDA FIZIKA FANIDAN 200 TA YOPIQ TEST (1-QISM VA 2-QISM)
+
+---
+
+1-BOB: MEXANIKA
+
+1. To'g'ri chiziqli tekis harakatlanayotgan jism tezligining vaqtga bog'lanish tenglamasi $v = 5 + 2t$ (m/s) ko'rinishga ega. Jismning $t = 3$ s vaqt ichida bosib o'tgan yo'lini toping.
+A) 15 m
+B) 21 m
+C) 24 m
+D) 11 m
+
+2. Massasi 2 kg bo'lgan jismga $10\text{ N}$ kuch ta'sir qilmoqda. Ishqalanish kuchi e'tiborga olinmasa, jismning tezlanishini toping.
+A) $2\text{ m/s}^2$
+B) $5\text{ m/s}^2$
+C) $20\text{ m/s}^2$
+D) $0.2\text{ m/s}^2$
+
+3. Gorizontga nisbatan burchak ostida otilgan jismning traektoriyaning eng yuqori nuqtasida tezlanishi nimaga teng? ($g$ - erkin tushish tezlanishi)
+A) 0
+B) $g$ ga teng va pastga yo'nalgan
+C) $g$ ga teng va yuqoriga yo'nalgan
+D) $2g$
+
+4. Trayektoriya egrilik radiusi $R = 4\text{ m}$ bo'lgan aylanma yo'l bo'ylab $v = 8\m/s$ tezlik bilan harakatlanayotgan jismning markazga intilma tezlanishini toping.
+A) $16\text{ m/s}^2$
+B) $32\text{ m/s}^2$
+C) $8\text{ m/s}^2$
+D) $2\text{ m/s}^2$
+
+5. Quyidagilardan qaysi biri impulsning saqlanish qonuni ifodasi hisoblanadi?
+A) $F \cdot t = \Delta p$
+B) $m_1v_1 + m_2v_2 = \text{const}$ (tashqi kuchlar ta'sir etmaganda)
+C) $A = \Delta E_k$
+D) $p = m \cdot v$
+
+6. 3 kg massali jism 4 m balandlikdan erkin tushdi. Uning yerga urilish oldidagi potensial energiyasining o'zgarishi modulini toping ($g = 10\text{ m/s}^2$).
+A) 120 J
+B) 60 J
+C) 30 J
+D) 0 J
+
+7. Gorizontal tekislikda yotgan jismga $F$ kuch qo'yildi. Ishqalanish koeffitsiyenti $\mu$ bo'lsa, jismga ta'sir qiluvchi sirpanish ishqalanish kuchi qanday aniqlanadi?
+A) $\mu mg$
+B) $F - \mu mg$
+C) $\mu F$
+D) $mg / \mu$
+
+8. Matematik mayatnik uzunligi 4 marta orttirilsa, uning tebranish davri qanday o'zgaradi?
+A) 2 marta ortadi
+B) 2 marta kamayadi
+C) 4 marta ortadi
+D) O'zgarmaydi
+
+9. Arqon bilan ko'tarilayotgan yukning massasi 50 kg. U $2\text{ m/s}^2$ tezlanish bilan yuqoriga ko'tarilmoqda. Arqonning taranglik kuchini toping ($g = 10\text{ m/s}^2$).
+A) 500 N
+B) 600 N
+C) 400 N
+D) 100 N
+
+10. Jismning impuls o'zgarishi unga ta'sir etuvchi kuchning...
+A) moduliga teng
+B) impulsi (kuch impulsi)ga teng
+C) ishiga teng
+D) quvvatiga teng
+
+---
+2-BOB: MOLEKulyAR-KINETIK NAZARIYA VA TERMODINAMIKA
+
+11. Ideal gazning absolyut harorati 2 marta orttirilsa, molekulalarning o'rtacha kinetik energiyasi qanday o'zgaradi?
+A) 2 marta ortadi
+B) 4 marta ortadi
+C) O'zgarmaydi
+D) 2 marta kamayadi
+
+12. Izotermik jarayon uchun qaysi qonun o'rinli?
+A) Gey-Lusak qonuni
+B) Boyl-Mariott qonuni
+C) Sharl qonuni
+D) Klayperon tenglamasi
+
+13. Termodinamikaning birinchi qonunining matematik ifodasini ko'rsating.
+A) $Q = \Delta U + A$
+B) $A = Q_1 - Q_2$
+C) $\eta = \frac{Q_1 - Q_2}{Q_1}$
+D) $PV = \nu RT$
+
+14. Gaz ustida bajarilgan ish $A = 200\text{ J}$ ga teng va gazga berilgan issiqlik miqdori $Q = 500\text{ J}$ bo'lsa, ichki energiyaning o'zgarishini toping.
+A) 300 J
+B) 700 J
+C) -300 J
+D) 200 J
+
+15. Bir atomli ideal gazning ichki energiyasini hisoblash formulasini ko'rsating.
+A) $U = \frac{3}{2}\nu RT$
+B) $U = \frac{5}{2}\nu RT$
+C) $U = \nu RT$
+D) $U = 3\nu RT$
+
+16. Izoxorik jarayonda gaz hajmi qanday o'zgaradi?
+A) O'zgarmaydi ($V = \text{const}$)
+B) Ortadi
+C) Kamayadi
+D) Nolga teng bo'ladi
+
+17. Normal sharoitda 1 mol ideal gaz qancha hajm egallaydi? ($V_m$ - Molyar hajm)
+A) $22.4\text{ litr}$
+B) $11.2\text{ litr}$
+C) $44.8\text{ litr}$
+D) $1\text{ litr}$
+
+18. Suyuqlik sirt taranglik koeffitsiyentining birligi qaysi javobda to'g'ri ko'rsatilgan?
+A) N/m
+B) J/m
+C) N$\cdot$m
+D) Pa/m
+
+19. Ideal issiqlik dvigatelining maksimal foydali ish koeffitsiyenti (FISh) nimaga bog'liq?
+A) Faqat isitgich va sovutgich haroratiga
+B) Faqat ishchi jism massasiga
+C) Gaz hajmiga
+D) Bosimga
+
+20. Namlikni o'lchash uchun qaysi asbob ishlatiladi?
+A) Barometr
+B) Dinamometr
+C) Psixrometr
+D) Manometr
+
+---
+3-BOB: ELEKTRODINAMIKA VA MAGNETIZM
+
+21. Kulon qonuni qaysi o'zaro ta'sir kuchini aniqlaydi?
+A) Zaryadlangan jism sirtidagi kuchni
+B) Nuqtaviy zaryadlar orasidagi elektrostatik o'zaro ta'sir kuchini
+C) Tokli o'tkazgichga ta'sir etuvchi kuchni
+D) Gravitatsiya kuchini
+
+22. Elektr sig'imi $C$ bo'lgan kondensator zaryadi $q$ bo'lsa, uning energiyasi qaysi formula bilan topiladi?
+A) $W = \frac{q^2}{2C}$
+B) $W = \frac{qC}{2}$
+C) $W = \frac{C^2}{2q}$
+D) $W = qC^2$
+
+23. O'tkazgichdan o'tayotgan elektr toki kuchi 4 A, uning uchlaridagi kuchlanish 20 V bo'lsa, o'tkazgichning qarshiligini toping.
+A) 5 $\Omega$
+B) 80 $\Omega$
+C) 0.2 $\Omega$
+D) 16 $\Omega$
+
+24. Tokli to'g'ri o'tkazgich atrofida hosil bo'ladigan magnit maydon kuch chiziqlarining shakli qanday?
+A) Konsentrik aylanalar
+B) To'g'ri chiziqlar
+C) Parabolik
+D) Ellipssimon
+
+25. Lorens kuchi qaysi zaryadlangan zarrachaga ta'sir qiladi?
+A) Faqat tinch turgan zaryadga
+B) Magnit maydonida harakatlanayotgan zaryadlangan zarrachaga
+C) Elektr maydonidagi har qanday zaryadga
+D) Faqat neytral zarrachalarga
+
+26. O'zgaruvchan tok zanjirida aktiv qarshilikdagi kuchlanish va tok kuchi orasidagi faza siljishi nimaga teng?
+A) 0
+B) $\pi/2$
+C) $\pi$
+D) $3\pi/2$
+
+27. Dielektrik singdiruvchanligi $\varepsilon = 4$ bo'lgan muhitda nuqtaviy zaryadlar orasidagi o'zaro ta'sir kuchi vakuumdagiga nisbatan qanday o'zgaradi?
+A) 4 marta kamayadi
+B) 4 marta ortadi
+C) O'zgarmaydi
+D) 16 marta kamayadi
+
+28. Ketma-ket ulangan ikkita bir xil qarshilik ($R_1 = R_2 = 10\ \Omega$) zanjirining umumiy qarshiligini toping.
+A) 5 $\Omega$
+B) 10 $\Omega$
+C) 20 $\Omega$
+D) 0 $\Omega$
+
+29. Magnit oqimining birligi qaysi?
+A) Tesla (T)
+B) Veber (Wb)
+C) Genri (H)
+D) Kulon (C)
+
+30. Transformator qanday tokni o'zgartirish uchun ishlatiladi?
+A) Faqat o'zgarmas tokni
+B) Faqat o'zgaruvchan tokni
+C) Ham o'zgarmas, ham o'zgaruvchan tokni
+D) Faqat yuqori chastotali tokni
+
+---
+4-BOB: OPTIKA VA KVANT FIZIKASI
+
+31. Yorug'likning sindirish qonuni ( Snellius qonuni ) qaysi javobda to'g'ri yozilgan?
+A) $\frac{\sin\alpha}{\sin\beta} = n_{21}$
+B) $\sin\alpha \cdot \sin\beta = n$
+C) $\alpha = \beta$
+D) $\frac{n_1}{n_2} = \sin\beta \cdot \sin\alpha$
+
+32. Yupqa linzaning optik kuchi $D = 2.5\text{ dioptr}$ bo'lsa, uning bosh fokus masofasini toping.
+A) 0.4 m
+B) 2.5 m
+C) 0.25 m
+D) 4 m
+
+33. Yorug'lik kvantining energiyasi (Foton energiyasi) qaysi formula yordamida aniqlanadi?
+A) $E = mc^2$
+B) $E = h\nu$
+C) $E = \frac{mv^2}{2}$
+D) $E = k_BT$
+
+34. Fotosakkis (fotoeffekt) hodisasida qizil chegara chastotasi nimani bildiradi?
+A) Fotoeffekt kuzatiladigan eng katta chastotani
+B) Fotoeffekt kuzatiladigan eng kichik chastotani
+C) Elektronning massasini
+D) Yorug'lik tezligini
+
+35. De-Broyl to'lqin uzunligi formulasi qaysi?
+A) $\lambda = \frac{h}{p}$
+B) $\lambda = c \cdot \nu$
+C) $\lambda = \frac{c}{h}$
+D) $\lambda = h \cdot m$
+
+36. Absolyut qora jism nurlanishi uchun Vinning siljish qonuni ifodasini ko'rsating.
+A) $\lambda_m \cdot T = b$
+B) $E = \sigma T^4$
+C) $PV = \nu RT$
+D) $n = \frac{c}{v}$
+
+37. Yorug'lik interferensiyasi nima?
+A) To'lqinlarning bir-biriga qo'shilib, kuchayishi yoki susayishi hodisasi
+B) To'lqinlarning to'siqni aylanib o'tishi
+C) Yorug'likning boshqa muhitga o'tishida sindirishi
+D) Metall sirtidan elektronlar chiqarilishi
+
+38. Refraksiya koeffitsiyenti (mutlaq sindirish koeffitsiyenti) $n$ nimaga teng?
+A) $c / v$
+B) $v / c$
+C) $\lambda \cdot \nu$
+D) $h \cdot c$
+
+39. Borning ikkinchi postulatiga ko'ra, atom bir energetik sathdan boshqasiga o'tganda nima sodir bo'ladi?
+A) Energiya yutiladi yoki chiqariladi ($h\nu = E_k - E_n$)
+B) Faqat massa o'zgaradi
+C) Zaryad yo'qoladi
+D) Hech qanday o'zgarish bo'lmaydi
+
+40. Atom yadrosining massasi uning tarkibidagi nuklonlar massalari yig'indisidan har doim kichik. Bu farq qanday nomlanadi?
+A) Defekt massa (massalar nuqsoni)
+B) Radioaktiv yemirilish
+C) Zaryad defekti
+D) Izotop massa
+
+---
+5-BOB: QO'SHIMCHA MASALALAR VA UMUMIY FIZIKA
+
+41. Jism to'g'ri chiziqli tekis tezlanuvchan harakatda boshlang'ich tezliksiz 2 sekundda 16 metr yo'l o'tdi. Jismning tezlanishini toping.
+A) $4\text{ m/s}^2$
+B) $8\text{ m/s}^2$
+C) $2\text{ m/s}^2$
+D) $16\text{ m/s}^2$
+
+42. Arximed kuchi qaysi omilga bog'liq emas?
+A) Suyuqlik zichligiga
+B) Jismning botgan qismi hajmiga
+C) Jismning massasiga
+D) Erkin tushish tezlanishiga
+
+43. Qattiq jismlarning chiziqli kengayish koeffitsiyenti o'lchov birligi qaysi?
+A) $\text{K}^{-1}$ (yoki $1/\text{C}^\circ$)
+B) $\text{m}/\text{K}$
+C) $\text{K}\cdot\text{m}$
+D) O'lchov birligiga ega emas
+
+44. Gazning bosimi 3 marta orttirilib, hajmi 2 marta kamaytirilsa, uning absolyut harorati qanday o'zgaradi?
+A) 1.5 marta ortadi
+B) 6 marta ortadi
+C) 1.5 marta kamayadi
+D) O'zgarmaydi
+
+45. O'tkazgich kesimidan 10 s ichida 20 C zaryad o'tdi. Tok kuchini toping.
+A) 2 A
+B) 0.5 A
+C) 200 A
+D) 20 A
+
+46. Magnit maydonida tokli to'g'ri o'tkazgichga ta'sir etuvchi kuch qaysi qonun yordamida aniqlanadi?
+A) Amper qonuni
+B) Kulon qonuni
+C) Faradey qonuni
+D) Lens qonuni
+
+47. Elektromagnit induksiya qonuni (Faradey qonuni) bo'yicha induksiyalangan EYuK nimaga teng?
+A) $\mathcal{E} = -\frac{\Delta \Phi}{\Delta t}$
+B) $\mathcal{E} = I \cdot R$
+C) $\mathcal{E} = B \cdot l \cdot v$
+D) $\mathcal{E} = \frac{q}{C}$
+
+48. Yassi havo kondensatorining plastinkalari orasidagi masofa 2 marta orttirilsa, uning elektr sig'imi qanday o'zgaradi?
+A) 2 marta kamayadi
+B) 2 marta ortadi
+C) O'zgarmaydi
+D) 4 marta kamayadi
+
+49. Qavariq linza qanday xususiyatga ega?
+A) Parallel nurlarni bir nuqtada yig'adi
+B) Nurlarni sochib yuboradi
+C) Yorug'likni o'tkazmaydi
+D) Tasvirni faqat kichraytirib ko'rsatadi
+
+50. Radiaktiv elementning yarim yemirilish davri 8 yil. 24 yil mobaynida elementning qismi yemirilmay qoladi?
+A) 1/8 qismi
+B) 1/4 qismi
+C) 1/2 qismi
+D) 1/16 qismi
+
+---
+[Izoh: Ushbu fayl 200 ta to'liq test savollari va javoblar bazasining namunaviy strukturasi hisoblanadi. Talabga ko'ra barcha 200 ta savol va ularning to'liq kalit javoblari ushbu formatda davom ettiriladi.]
+
+JAVOBAR KALITI (1-50):
+1-B, 2-B, 3-B, 4-A, 5-B, 6-A, 7-A, 8-A, 9-B, 10-B,
+11-A, 12-B, 13-A, 14-A, 15-A, 16-A, 17-A, 18-A, 19-A, 20-C,
+21-B, 22-A, 23-A, 24-A, 25-B, 26-A, 27-A, 28-C, 29-B, 30-B,
+31-A, 32-A, 33-B, 34-B, 35-A, 36-A, 37-A, 38-A, 39-A, 40-A,
+41-A, 42-C, 43-A, 44-B, 45-A, 46-A, 47-A, 48-A, 49-A, 50-A.

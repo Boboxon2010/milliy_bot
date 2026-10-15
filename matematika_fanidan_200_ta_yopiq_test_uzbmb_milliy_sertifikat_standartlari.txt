@@ -1,0 +1,1233 @@
+================================================================================
+MATEMATIKA FANIDAN 200 TA YOPIQ TEST (UZBMB MILLIY SERTIFIKAT STANDARTLARI)
+================================================================================
+Tarkibi:
+- Sonlar va amallar (Arifmetika)
+- Algebra va funksiyalar (Tenglama, tengsizlik, ketma-ketliklar)
+- Geometriya (Planimetriya va Stereometriya)
+- Matematik analiz elementlari (Hosilalar, integrallar)
+- Kombinatorika, ehtimollik va statistika
+--------------------------------------------------------------------------------
+
+1. Hisoblang: 125 * 32 - 125 * 24 + 75 * 8
+A) 1200
+B) 1600
+C) 1500
+D) 1000
+
+2. Hisoblang: (1/2 + 1/3) : (1/4 - 1/6)
+A) 10
+B) 5
+C) 12
+D) 8
+
+3. Ushbu 0.36(1) davriy kasrni oddiy kasrga aylantiring.
+A) 325/900
+B) 65/180
+C) 13/36
+D) 325/990
+
+4. 120 va 180 sonlarining eng katta umumiy bo'luvchisi (EKUB) va eng kichik karralisi (EKUK) yig'indisini toping.
+A) 420
+B) 360
+C) 400
+D) 380
+
+5. Sonli ketma-ketlikning dastlabki n ta hadi yig'indisi Sn = 2n^2 + n formula bilan berilgan. Ketma-ketlikning 5-hadini toping.
+A) 19
+B) 21
+C) 25
+D) 17
+
+6. Proportsiyaning noma'lum hadini toping: x : 4 = 15 : 6
+A) 8
+B) 10
+C) 12
+D) 9
+
+7. 40 soni 50 ning necha foizini tashkil etadi?
+A) 75%
+B) 80%
+C) 85%
+D) 90%
+
+8. 15% li 200 gramm tuzli eritmaga necha gramm suv qo'shilsa, 10% li eritma hosil bo'ladi?
+A) 100
+B) 80
+C) 150
+D) 120
+
+9. Tenglamani yeching: 3x - 7 = 5x + 9
+A) -8
+B) 8
+C) -1
+D) 4
+
+10. Tenglamani yeching: x^2 - 7x + 12 = 0
+A) 3 va 4
+B) -3 va -4
+C) 2 va 6
+D) -2 va -6
+
+11. Agar x1 va x2 sonlari x^2 - 5x + 3 = 0 tenglamaning ildizlari bo'lsa, x1^2 + x2^2 ni toping.
+A) 19
+B) 25
+C) 16
+D) 22
+
+12. Tengsizlikni yeching: 2x - 5 > 3x + 1
+A) x < -6
+B) x > -6
+C) x < 6
+D) x > 6
+
+13. Tengsizlikni yeching: x^2 - 4x - 5 <= 0
+A) [-1; 5]
+B) (-inf; -1] U [5; inf)
+C) [1; 5]
+D) [-5; 1]
+
+14. Modulli tenglamani yeching: |2x - 3| = 7
+A) -2 va 5
+B) 2 va 5
+C) -5 va 2
+D) -2 va -5
+
+15. Modulli tengsizlikni yeching: |x - 2| < 4
+A) (-2; 6)
+B) (2; 6)
+C) (-6; 2)
+D) (-2; 2)
+
+16. Funksiyaning aniqlanish sohasini toping: f(x) = sqrt(2x - 8)
+A) [4; inf)
+B) (4; inf)
+C) (-inf; 4]
+D) [0; 4]
+
+17. y = 3x^2 - 12x + 7 parabolaning uchining koordinatalarini toping.
+A) (2; -5)
+B) (-2; 5)
+C) (2; 5)
+D) (-2; -5)
+
+18. f(x) = x^3 - 3x funksiyaning juft yoki toqligini aniqlang.
+A) Toq funksiya
+B) Juft funksiya
+C) Juft ham emas, toq ham emas
+D) Periodik funksiya
+
+19. Hisoblang: 2^5 * 4^3 / 8^3
+A) 4
+B) 8
+C) 2
+D) 16
+
+20. Tenglamani yeching: 3^(x + 2) = 81
+A) 2
+B) 3
+C) 4
+D) 1
+
+21. Tengsizlikni yeching: (1/2)^x > 8
+A) x < -3
+B) x > -3
+C) x < 3
+D) x > 3
+
+22. Hisoblang: log2(16) + log3(27) - log5(1)
+A) 7
+B) 6
+C) 8
+D) 5
+
+23. Hisoblang: log2(3) * log3(4)
+A) 2
+B) 1
+C) 3
+D) 4
+
+24. Tenglamani yeching: log2(x - 3) = 4
+A) 19
+B) 16
+C) 13
+D) 20
+
+25. Tengsizlikni yeching: log0.5(x - 1) > -2
+A) (1; 5)
+B) (1; 4)
+C) (-inf; 5)
+D) (5; inf)
+
+26. Trigonometrik ifodani soddalashtiring: sin^2(x) + cos^2(x) + tg^2(x)
+A) 1/cos^2(x)
+B) 1/sin^2(x)
+C) tg^2(x)
+D) ctg^2(x)
+
+27. Hisoblang: sin(150 gradus)
+A) 1/2
+B) -1/2
+C) sqrt(3)/2
+D) -sqrt(3)/2
+
+28. Hisoblang: cos(75 gradus)
+A) (sqrt(6) - sqrt(2))/4
+B) (sqrt(6) + sqrt(2))/4
+C) (sqrt(3) - 1)/2
+D) (sqrt(3) + 1)/2
+
+29. Tenglamani yeching: sin(x) = 1/2
+A) (-1)^k * pi/6 + pi*k, k in Z
+B) +/- pi/6 + 2pi*k, k in Z
+C) (-1)^k * pi/3 + pi*k, k in Z
+D) pi/6 + 2pi*k, k in Z
+
+30. Tenglamani yeching: cos(2x) = 0
+A) pi/4 + pi*k/2, k in Z
+B) pi/2 + pi*k, k in Z
+C) pi/4 + pi*k, k in Z
+D) pi*k/2, k in Z
+
+31. Arifmetik progressiyada a1 = 3, d = 4 bo'lsa, a10 ni toping.
+A) 39
+B) 35
+C) 43
+D) 37
+
+32. Arifmetik progressiyada a1 = 2, a5 = 14 bo'lsa, dastlabki 10 ta had yig'indisini toping.
+A) 155
+B) 140
+C) 150
+D) 160
+
+33. Geometrik progressiyada b1 = 3, q = 2 bo'lsa, b6 ni toping.
+A) 96
+B) 48
+C) 192
+D) 64
+
+34. Cheksiz kamayuvchi geometrik progressiyada b1 = 6 va q = 1/3 bo'lsa, uning yig'indisini toping.
+A) 9
+B) 8
+C) 12
+D) 18
+
+35. f(x) = 3x^4 - 2x^2 + 5x - 7 funksiyaning hosilasini toping.
+A) 12x^3 - 4x + 5
+B) 12x^3 - 2x + 5
+C) 7x^3 - 4x + 5
+D) 12x^3 - 4x
+
+36. f(x) = sin(2x) funksiyaning x = pi/6 nuqtadagi hosilasini toping.
+A) 1
+B) sqrt(3)
+C) 2
+D) 1/2
+
+37. f(x) = x^3 - 3x^2 funksiyaning kritik nuqtalarini toping.
+A) 0 va 2
+B) 0 va -2
+C) 1 va 3
+D) -1 va 2
+
+38. f(x) = -x^2 + 4x + 1 funksiyaning [0; 3] kesmadagi eng katta qiymatini toping.
+A) 5
+B) 4
+C) 1
+D) 3
+
+39. Integralni hisoblang: int (3x^2 + 2x - 1) dx
+A) x^3 + x^2 - x + C
+B) 3x^3 + 2x^2 - x + C
+C) x^3 + x^2 + C
+D) 6x + 2 + C
+
+40. Aniq integralni hisoblang: int_0^2 (x^3) dx
+A) 4
+B) 8
+C) 16
+D) 2
+
+41. y = x^2 va y = 4 to'g'ri chiziqlar bilan chegaralangan shaklning yuzini toping.
+A) 32/3
+B) 16/3
+C) 8/3
+D) 12
+
+42. Uchburchakning ikkita burchagi 45 va 60 gradusga teng. Uchinchi burchagini toping.
+A) 75 gradus
+B) 80 gradus
+C) 65 gradus
+D) 90 gradus
+
+43. Teng yonli uchburchakning asosi 12 cm, yon tomoni 10 cm. Uchburchak yuzini toping.
+A) 48 cm^2
+B) 60 cm^2
+C) 36 cm^2
+D) 24 cm^2
+
+44. To'g'ri burchakli uchburchakning gipotenuzasi 13 cm, bir kateti 5 cm. Ikkinchi katetini toping.
+A) 12 cm
+B) 10 cm
+C) 11 cm
+D) 8 cm
+
+45. Uchburchakning tomonlari 5 cm, 6 cm va 7 cm. Uning yuzini Heron formulasi yordamida toping.
+A) 6*sqrt(6) cm^2
+B) 12*sqrt(6) cm^2
+C) 6*sqrt(3) cm^2
+D) 4*sqrt(6) cm^2
+
+46. Kvadratning diogonali 8 cm ga teng. Unining yuzini toping.
+A) 32 cm^2
+B) 64 cm^2
+C) 16 cm^2
+D) 48 cm^2
+
+47. To'g'ri to'rtburchakning boyi 8 cm, eni 6 cm. Murg'a diogonalining uzunligini toping.
+A) 10 cm
+B) 12 cm
+C) 14 cm
+D) 9 cm
+
+48. Rombning diagonallari 12 cm va 16 cm. Rombning tomonini toping.
+A) 10 cm
+B) 8 cm
+C) 14 cm
+D) 12 cm
+
+49. Trapeziyaning asoslari 6 cm va 10 cm, balandligi 5 cm. Trapeziya yuzini toping.
+A) 40 cm^2
+B) 80 cm^2
+C) 50 cm^2
+D) 30 cm^2
+
+50. Doiraning radiusi 5 cm ga teng. Doira yuzini toping (pi = 3.14).
+A) 78.5 cm^2
+B) 31.4 cm^2
+C) 15.7 cm^2
+D) 62.8 cm^2
+
+51. Aylananing uzunligi 12*pi cm. Aylana radiusini toping.
+A) 6 cm
+B) 12 cm
+C) 3 cm
+D) 4 cm
+
+52. Kubning qirrasi 4 cm. Kubning to'la sirti va hajmini toping.
+A) S = 96 cm^2, V = 64 cm^3
+B) S = 64 cm^2, V = 64 cm^3
+C) S = 96 cm^2, V = 48 cm^3
+D) S = 48 cm^2, V = 64 cm^3
+
+53. To'g me'yorli paralelepipedning o'lchamlari 3 cm, 4 cm va 12 cm. Uning diogonalini toping.
+A) 13 cm
+B) 15 cm
+C) 11 cm
+D) 14 cm
+
+54. Tsilindrning radiusi 3 cm, balandligi 5 cm. Tsilindr hajmini toping.
+A) 45*pi cm^3
+B) 30*pi cm^3
+C) 15*pi cm^3
+D) 90*pi cm^3
+
+55. Konusning radiusi 4 cm, yasovchisi 5 cm. Konus balandligini toping.
+A) 3 cm
+B) 4 cm
+C) 2 cm
+D) sqrt(41) cm
+
+56. Shar radiusi 6 cm. Shar hajmini toping.
+A) 288*pi cm^3
+B) 144*pi cm^3
+C) 576*pi cm^3
+D) 216*pi cm^3
+
+57. A(2, -3) va B(-4, 5) nuqtalar orasidagi masofani toping.
+A) 10
+B) 8
+C) 12
+D) sqrt(52)
+
+58. Vektorlar a(3, 4) va b(-4, 3) berilgan. Ularning skalyar ko'paytmasini toping.
+A) 0
+B) 25
+C) -12
+D) 7
+
+59. 5 kishidan 2 kishilik qo'mitani necha xil usulda tanlab olish mumkin?
+A) 10
+B) 20
+C) 5
+D) 15
+
+60. Idishda 4 ta oq va 6 ta qora shar bor. Tavakkaliga olingan 1 ta sharning oq bo'lish ehtimolligini toping.
+A) 2/5
+B) 3/5
+C) 1/2
+D) 4/5
+
+61. Hisoblang: 2^10 - 2^9
+A) 512
+B) 256
+C) 1024
+D) 128
+
+62. Kasrni qisqartiring: (x^2 - 9) / (x^2 - 5x + 6)
+A) (x + 3) / (x - 2)
+B) (x - 3) / (x - 2)
+C) (x + 3) / (x + 2)
+D) (x - 3) / (x + 2)
+
+63. Ifodani soddalashtiring: (a^(1/2) + b^(1/2))^2 - 2*sqrt(a*b)
+A) a + b
+B) a - b
+C) sqrt(a) + sqrt(b)
+D) a^2 + b^2
+
+64. x^3 + y^3 ifodani ko'paytuvchilarga ajrating.
+A) (x + y)(x^2 - xy + y^2)
+B) (x + y)(x^2 + xy + y^2)
+C) (x - y)(x^2 + xy + y^2)
+D) (x + y)^3
+
+65. Tenglamalar sistemasini yeching: x + y = 7, x - y = 3
+A) x = 5, y = 2
+B) x = 4, y = 3
+C) x = 6, y = 1
+D) x = 5, y = -2
+
+66. Tenglamalar sistemasining yechimlari sonini toping: 2x - y = 4, 4x - 2y = 8
+A) Cheksiz ko'p
+B) Yagona yechim
+C) Yechimga ega emas
+D) 2 ta yechim
+
+67. x va y musbat sonlar. x * y = 36 bo'lsa, x + y ning eng kichik qiymatini toping.
+A) 12
+B) 13
+C) 15
+D) 18
+
+68. Tengsizliklar sistemasini yeching: 2x + 1 > 5 va 3x - 2 < 10
+A) (2; 4)
+B) [2; 4]
+C) (2; inf)
+D) (-inf; 4)
+
+69. Irratsional tenglamani yeching: sqrt(2x + 5) = 3
+A) 2
+B) 4
+C) 7
+D) 3
+
+70. Irratsional tenglamani yeching: sqrt(x + 2) = x
+A) 2
+B) -1 va 2
+C) -1
+D) 4
+
+71. Ko'rsatkichli tenglamani yeching: 4^x - 5 * 2^x + 4 = 0
+A) 0 va 2
+B) 1 va 2
+C) 0 va 1
+D) 2 va 4
+
+72. Logarifmik tenglamani yeching: log3(x) + log3(x - 2) = 1
+A) 3
+B) -1 va 3
+C) 1 va 3
+D) 2
+
+73. tg(x) = sqrt(3) tenglamaning eng kichik musbat ildizini toping.
+A) pi/3
+B) pi/6
+C) pi/4
+D) 2pi/3
+
+74. ctg(x) = 1 tenglamani yeching.
+A) pi/4 + pi*k, k in Z
+B) pi/4 + 2pi*k, k in Z
+C) -pi/4 + pi*k, k in Z
+D) pi/2 + pi*k, k in Z
+
+75. Hisoblang: arcsin(sqrt(3)/2) + arccos(1/2)
+A) 2pi/3
+B) pi/3
+C) pi/2
+D) pi
+
+76. Hisoblang: arctg(1) + arcctg(1)
+A) pi/2
+B) pi/4
+C) pi
+D) 3pi/4
+
+77. Ishora o'zgartirmasdan kamayuvchi arifmetik progressiyada a1 = 20, d = -3. Birinchi manfiy had qaysi o'rinda keladi?
+A) 8-had
+B) 7-had
+C) 9-had
+D) 6-had
+
+78. Geometrik progressiyada b2 = 6, b5 = 48 bo'lsa, mahraj q ni toping.
+A) 2
+B) 3
+C) 4
+D) 1.5
+
+79. f(x) = (2x + 1)^5 funksiyaning hosilasini toping.
+A) 10(2x + 1)^4
+B) 5(2x + 1)^4
+C) 20(2x + 1)^4
+D) 2(2x + 1)^4
+
+80. f(x) = e^(3x) funksiyaning hosilasini toping.
+A) 3*e^(3x)
+B) e^(3x)
+C) 1/3 * e^(3x)
+D) 3x * e^(3x-1)
+
+81. f(x) = ln(x^2 + 1) funksiyaning hosilasini toping.
+A) 2x / (x^2 + 1)
+B) 1 / (x^2 + 1)
+C) 2 / (x^2 + 1)
+D) x / (x^2 + 1)
+
+82. Boshlang'ich funksiyani toping: f(x) = cos(x) - sin(x)
+A) sin(x) + cos(x) + C
+B) sin(x) - cos(x) + C
+C) -sin(x) - cos(x) + C
+D) -sin(x) + cos(x) + C
+
+83. Integralni hisoblang: int_1^e (1/x) dx
+A) 1
+B) e
+C) 0
+D) ln(2)
+
+84. Uchburchakning medianalari kesishish nuqtasi medianani qanday nisbatda bo'ladi (uchidan boshlab)?
+A) 2:1
+B) 1:1
+C) 3:1
+D) 3:2
+
+85. Uchburchakning bissektrisasi qarshisidagi tomonni 3 cm va 5 cm li kesmalarga ajratadi. Agar uchburchak perimetri 24 cm bo'lsa, uning qolgan ikki tomonini toping.
+A) 6 cm va 10 cm
+B) 8 cm va 8 cm
+C) 5 cm va 11 cm
+D) 4 cm va 12 cm
+
+86. To'g'ri burchakli uchburchakda gipotenuza 10 cm, burchaklardan biri 30 gradus. Kichik katetini toping.
+A) 5 cm
+B) 5*sqrt(3) cm
+C) 8 cm
+D) 6 cm
+
+87. Teng tomonli uchburchakning balandligi 6*sqrt(3) cm. Uchburchak tomonini toping.
+A) 12 cm
+B) 6 cm
+C) 18 cm
+D) 8 cm
+
+88. Aylanaga tashqarisidagi nuqtadan o'tkazilgan urinma uzunligi 12 cm, kesuvchining tashqi qismi 8 cm. Kesuvchining ichki qismini toping.
+A) 10 cm
+B) 18 cm
+C) 8 cm
+D) 12 cm
+
+89. Paralelogrammning tomonlari 4 cm va 6 cm, ular orasidagi burchak 30 gradus. Paralelogramm yuzini toping.
+A) 12 cm^2
+B) 24 cm^2
+C) 12*sqrt(3) cm^2
+D) 6 cm^2
+
+90. Rombning balandligi 6 cm, o'tkir burchagi 30 gradus. Romb yuzini toping.
+A) 72 cm^2
+B) 36 cm^2
+C) 48 cm^2
+D) 24 cm^2
+
+91. Muntazam oltiburchakning tomoni 4 cm. Uning yuzini toping.
+A) 24*sqrt(3) cm^2
+B) 12*sqrt(3) cm^2
+C) 48*sqrt(3) cm^2
+D) 36 cm^2
+
+92. Kubning diagonali 6*sqrt(3) cm. Kubning hajmini toping.
+A) 216 cm^3
+B) 108 cm^3
+C) 64 cm^3
+D) 144 cm^3
+
+93. Muntazam to'rtburchakli piramidaning asos tomoni 6 cm, balandligi 4 cm. Piramidaning yon sirtini toping.
+A) 60 cm^2
+B) 48 cm^2
+C) 96 cm^2
+D) 36 cm^2
+
+94. Konusning hajmi 100*pi cm^3, balandligi 12 cm. Asos radiusini toping.
+A) 5 cm
+B) 10 cm
+C) 6 cm
+D) 8 cm
+
+95. Shar yuzasi 144*pi cm^2 ga teng. Shar radiusini toping.
+A) 6 cm
+B) 12 cm
+C) 8 cm
+D) 4 cm
+
+96. A(1, 2) va B(5, 8) nuqtalar berilgan. AB kesma o'rtasining koordinatalarini toping.
+A) (3, 5)
+B) (4, 6)
+C) (2, 3)
+D) (6, 10)
+
+97. a(2, -1, 3) va b(1, 4, -2) vektorlar berilgan. a + 2b vektorning koordinatalarini toping.
+A) (4, 7, -1)
+B) (4, 7, 1)
+C) (3, 3, 1)
+D) (4, -9, 7)
+
+98. "MATEMATIKA" so'zidagi harflarni o'rinlashtirishlar sonini toping.
+A) 15120
+B) 362880
+C) 5040
+D) 30240
+
+99. Ikkita o'yin kubigi tashlanganda, tushgan ochkolar yig'indisi 7 bo'lish ehtimolligini toping.
+A) 1/6
+B) 1/12
+C) 5/36
+D) 7/36
+
+100. Telefon raqamining oxirgi raqami esdan chiqdi. Uning juft raqam bo'lishi ehtimolligini toping (0 ham juft).
+A) 1/2
+B) 2/5
+C) 3/5
+D) 1/10
+
+101. Hisoblang: 0.2^3 + 0.8^3 + 3 * 0.2 * 0.8 * 1
+A) 1
+B) 0.8
+C) 1.2
+D) 0.512
+
+102. Tenglamani yeching: 2 / (x - 1) = 3 / (x + 2)
+A) 7
+B) 5
+C) -7
+D) 1
+
+103. Ifodaning qiymatini toping: sqrt(7 + 4*sqrt(3)) - sqrt(7 - 4*sqrt(3))
+A) 4
+B) 2*sqrt(3)
+C) 2
+D) 4*sqrt(3)
+
+104. x^4 - 5x^2 + 4 = 0 tenglamaning nechta haqiqiy ildizi bor?
+A) 4
+B) 2
+C) 3
+D) 0
+
+105. Tengsizlikni yeching: (x - 1)(x - 3) / (x - 2) >= 0
+A) [1; 2) U [3; inf)
+B) [1; 3]
+C) (-inf; 1] U (2; 3]
+D) (2; 3]
+
+106. y = sqrt(x^2 - 9) funksiyaning aniqlanish sohasini toping.
+A) (-inf; -3] U [3; inf)
+B) [-3; 3]
+C) [3; inf)
+D) (-inf; -3)
+
+107. Parabola y = x^2 - 4x + 3 va to'g'ri chiziq y = x - 1 kesishish nuqtalarining ordintalarini toping.
+A) 0 va 3
+B) 1 va 4
+C) -1 va 3
+D) 1 va 3
+
+108. Tenglamani yeching: 5^(x^2 - 3x) = 1
+A) 0 va 3
+B) 1 va 3
+C) 0 va -3
+D) -1 va 3
+
+109. Tengsizlikni yeching: 3^(x + 1) + 3^x < 36
+A) x < 2
+B) x > 2
+C) x < 3
+D) x < 1
+
+110. Hisoblang: log5(25) * log2(8) / log3(9)
+A) 3
+B) 6
+C) 2
+D) 4
+
+111. Tenglamani yeching: lg(x^2 - 15) = lg(2x)
+A) 5
+B) -3 va 5
+C) 3 va 5
+D) -3
+
+112. Hisoblang: cos(10)cos(50) - sin(10)sin(50)
+A) 1/2
+B) sqrt(3)/2
+C) -1/2
+D) sqrt(2)/2
+
+113. Ifodani soddalashtiring: (1 - cos(2x)) / sin(2x)
+A) tg(x)
+B) ctg(x)
+C) tg(2x)
+D) sin(x)
+
+114. arcsin(1/2) + arccos(sqrt(3)/2) qiymatini toping.
+A) pi/3
+B) pi/6
+C) pi/2
+D) 2pi/3
+
+115. Arifmetik progressiyada S10 = 100 va S20 = 400 bo'lsa, S30 ni toping.
+A) 900
+B) 600
+C) 800
+D) 1000
+
+116. Geometrik progressiyada b1 + b3 = 10, b2 + b4 = 20 bo'lsa, maxraj q ni toping.
+A) 2
+B) 3
+C) 0.5
+D) 4
+
+117. f(x) = x * e^x funksiyaning hosilasini toping.
+A) e^x * (x + 1)
+B) e^x
+C) x * e^x
+D) e^x * (x - 1)
+
+118. f(x) = ln(sin(x)) funksiyaning hosilasini toping.
+A) ctg(x)
+B) tg(x)
+C) 1/sin(x)
+D) cos(x)
+
+119. f(x) = x^3 - 6x^2 + 9x + 2 funksiyaning usish oralig'ini toping.
+A) (-inf; 1) U (3; inf)
+B) (1; 3)
+C) (-inf; 3)
+D) (0; inf)
+
+120. Integralni hisoblang: int sin(3x) dx
+A) -1/3 * cos(3x) + C
+B) 1/3 * cos(3x) + C
+C) -cos(3x) + C
+D) 3 * cos(3x) + C
+
+121. Aniq integralni hisoblang: int_0^(pi/2) cos(x) dx
+A) 1
+B) 0
+C) -1
+D) pi/2
+
+122. Uchburchakning tomonlari 4 cm, 13 cm va 15 cm. Uchburchakning eng kichik balandligini toping.
+A) 3.2 cm
+B) 4.8 cm
+C) 2.4 cm
+D) 5 cm
+
+123. To'g'ri burchakli uchburchakning gipotenuzasiga tushirilgan balandlik uni 4 cm va 9 cm li kesmalarga ajratadi. Balandlikni toping.
+A) 6 cm
+B) 6.5 cm
+C) 5 cm
+D) 36 cm
+
+124. Uchburchak ichiga chizilgan aylana radiusi r = 2 cm, perimetri P = 30 cm. Uchburchak yuzini toping.
+A) 30 cm^2
+B) 60 cm^2
+C) 15 cm^2
+D) 45 cm^2
+
+125. Rombsimon yuzasi 24 cm^2 va bir diagonali 6 cm. Ikkinchi diagonalini toping.
+A) 8 cm
+B) 12 cm
+C) 4 cm
+D) 10 cm
+
+126. Doira sektori yuzi 6*pi cm^2, markaziy burchagi 60 gradus. Doira radiusini toping.
+A) 6 cm
+B) 36 cm
+C) 12 cm
+D) 3 cm
+
+127. Prizmaning 12 ta uchi va 18 ta qirrasi bor. Prizmaning nechta yog'i bor?
+A) 8
+B) 6
+C) 10
+D) 12
+
+128. Cilindr yon sirti yoyilmasi kvadrat bo'lib, uning tomoni 6*pi cm. Cilindr hajmini toping.
+A) 54*pi^2 cm^3
+B) 36*pi cm^3
+C) 108*pi cm^3
+D) 18*pi^2 cm^3
+
+129. Muntazam tetraedrning qirrasi 6 cm. Uning to'la sirtini toping.
+A) 36*sqrt(3) cm^2
+B) 18*sqrt(3) cm^2
+C) 72 cm^2
+D) 24*sqrt(3) cm^2
+
+130. Vektorlar a(1, 2, 3) va b(2, -1, 0). a va b vektorlar orasidagi burchak kosinusini toping.
+A) 0
+B) 1/sqrt(70)
+C) 1/2
+D) sqrt(3)/2
+
+131. Kutida 3 ta qizil, 5 ta yashil va 2 ta ko'k koptok bor. Tavakkaliga 1 koptok olindi. Un koptokning ko'k emasligi ehtimolligini toping.
+A) 4/5
+B) 1/5
+C) 3/10
+D) 1/2
+
+132. Hisoblang: (2^3)^2 * (2^2)^(-3)
+A) 1
+B) 2
+C) 4
+D) 1/2
+
+133. Ifodani soddalashtiring: (x - y)^3 + (y - z)^3 + (z - x)^3
+A) 3(x - y)(y - z)(z - x)
+B) 0
+C) (x - y)(y - z)(z - x)
+D) 3xyz
+
+134. Tenglamaning ildizlari yig'indisini toping: |x - 3| + |x + 1| = 6
+A) 2
+B) 4
+C) 0
+D) -2
+
+135. Tengsizlikni yeching: sqrt(x + 3) > x - 3
+A) [-3; 6)
+B) [3; 6)
+C) (-inf; 6)
+D) (6; inf)
+
+136. y = 2^x + 3 funksiyaning qiymatlar sohasini toping.
+A) (3; inf)
+B) [3; inf)
+C) (0; inf)
+D) (-inf; inf)
+
+137. Tenglamani yeching: 9^x - 4 * 3^x + 3 = 0
+A) 0 va 1
+B) 1 va 3
+C) 0 va 3
+D) 1 va 2
+
+138. log2(x) < 3 tengsizlikning natural yechimlari sonini toping.
+A) 7
+B) 8
+C) 6
+D) 9
+
+139. Trigonometrik ifodani soddalashtiring: sin(x) / (1 + cos(x)) + (1 + cos(x)) / sin(x)
+A) 2 / sin(x)
+B) 2 / cos(x)
+C) 2 tg(x)
+D) 2 ctg(x)
+
+140. sin(2x) = sin(x) tenglamani [0; pi] kesmada nechta ildizi bor?
+A) 3
+B) 2
+C) 4
+D) 1
+
+141. Geometrik progressiyada b1 = 2, q = 3 bo'lsa, S5 ni toping.
+A) 242
+B) 243
+C) 121
+D) 81
+
+142. f(x) = tg(x) funksiyaning hosilasini toping.
+A) 1 / cos^2(x)
+B) -1 / sin^2(x)
+C) 1 / sin^2(x)
+D) ctg(x)
+
+143. f(x) = x^3 - 3x^2 + 5 funksiyaning [0; 3] oraliqdagi eng kichik qiymatini toping.
+A) 1
+B) 5
+C) 2
+D) 0
+
+144. int x * e^x dx integralni hisoblang.
+A) e^x * (x - 1) + C
+B) e^x * (x + 1) + C
+C) x * e^x + C
+D) 1/2 * x^2 * e^x + C
+
+145. Uchburchakning ikkita tomoni 3 cm va 5 cm, ularning orasidagi burchak 60 gradus. Uchinchi tomonini toping.
+A) sqrt(19) cm
+B) 19 cm
+C) 7 cm
+D) sqrt(34) cm
+
+146. Aylanaga ichdan chizilgan to'rtburchakning qarama-qarshi burchaklaridan biri 70 gradus. Ikkinchi qarama-qarshi burchakni toping.
+A) 110 gradus
+B) 70 gradus
+C) 90 gradus
+D) 120 gradus
+
+147. Diagonallari teng va o'zaro perpendikulyar bo'lgan to'rtburchak bu:
+A) Kvadrat
+B) Romb
+C) To'g'ri to'rtburchak
+D) Paralelogramm
+
+148. Teng yonli trapeziyaning diogonalari o'zaro perpendikulyar. Balandligi 8 cm bo'lsa, trapeziya yuzini toping.
+A) 64 cm^2
+B) 32 cm^2
+C) 128 cm^2
+D) 48 cm^2
+
+149. Kubning to'la sirti 150 cm^2. Kubning hajmini toping.
+A) 125 cm^3
+B) 25 cm^3
+C) 100 cm^3
+D) 216 cm^3
+
+150. Shar radiusi 2 marta oshirilsa, uning hajmi necha marta ortadi?
+A) 8 marta
+B) 4 marta
+C) 2 marta
+D) 16 marta
+
+151. A(3, 4) nuqtadan koordinata boshigacha bo'lgan masofani toping.
+A) 5
+B) 7
+C) 1
+D) 25
+
+152. Agar a(2, 3) va b(x, -6) vektorlar kollinear bo'lsa, x ni toping.
+A) -4
+B) 4
+C) -9
+D) 9
+
+153. Tangalar 3 marta tashlanganda kamida 2 marta gerb tushish ehtimolligini toping.
+A) 1/2
+B) 3/8
+C) 1/4
+D) 5/8
+
+154. Hisoblang: (3^5 * 9^2) / 27^3
+A) 1
+B) 3
+C) 9
+D) 27
+
+155. Kasr matxrajini irratsionallikdan qutqaring: 6 / sqrt(3)
+A) 2*sqrt(3)
+B) 3*sqrt(3)
+C) sqrt(3)
+D) 6*sqrt(3)
+
+156. x^2 - 6x + y^2 + 8y = 0 tenglama bilan berilgan aylananing radiusini toping.
+A) 5
+B) 25
+C) 10
+D) sqrt(14)
+
+157. Tengsizlikni yeching: (x - 2) / (x + 3) < 0
+A) (-3; 2)
+B) (-inf; -3) U (2; inf)
+C) [-3; 2]
+D) (2; inf)
+
+158. f(x) = log2(4 - x^2) funksiyaning aniqlanish sohasini toping.
+A) (-2; 2)
+B) [-2; 2]
+C) (-inf; -2) U (2; inf)
+D) (0; 2)
+
+159. Tenglamani yeching: 2^(x + 1) + 2^(x - 1) = 10
+A) 2
+B) 3
+C) 1
+D) 0
+
+160. log3(x) = -2 tenglamaning ildizini toping.
+A) 1/9
+B) -9
+C) 9
+D) -1/9
+
+161. Hisoblang: sin(75 gradus) * cos(75 gradus)
+A) 1/4
+B) 1/2
+C) sqrt(3)/4
+D) 1/8
+
+162. Tenglamani yeching: tg(2x) = 1
+A) pi/8 + pi*k/2, k in Z
+B) pi/4 + pi*k, k in Z
+C) pi/8 + pi*k, k in Z
+D) pi/2 + pi*k, k in Z
+
+163. Arifmetik progressiyada a3 + a7 = 20 bo'lsa, a5 ni toping.
+A) 10
+B) 5
+C) 15
+D) 20
+
+164. Kamayuvchi geometrik progressiyaning barcha hadlari yig'indisi 12 ga, b1 = 4 ga teng. Maxraj q ni toping.
+A) 2/3
+B) 1/3
+C) 1/2
+D) 3/4
+
+165. f(x) = x^4 - 2x^2 + 3 funksiyaning hosilasi nolga teng bo'lgan nuqtalarini toping.
+A) 0; -1; 1
+B) 0; 1
+C) -1; 1
+D) 0; 2
+
+166. f(x) = sqrt(x) funksiyaning x = 4 nuqtadagi hosilasini toping.
+A) 1/4
+B) 1/2
+C) 1/8
+D) 2
+
+167. Integralni hisoblang: int (1 / cos^2(x)) dx
+A) tg(x) + C
+B) -ctg(x) + C
+C) ctg(x) + C
+D) -tg(x) + C
+
+168. To'g'ri burchakli uchburchakning katetlari 6 va 8. Gipotenuzasiga o'tkazilgan medianasini toping.
+A) 5
+B) 10
+C) 4.8
+D) 6.25
+
+169. Uchburchakning tomonlari 3, 4, 5. Unga tashqi chizilgan aylana radiusini toping.
+A) 2.5
+B) 5
+C) 1.5
+D) 2
+
+170. Rombning tomoni 5, diagonallaridan biri 6. Ikkinchi diogonalini toping.
+A) 8
+B) 10
+C) 4
+D) 12
+
+171. Doiraning yuzi 16*pi. Uning diametrini toping.
+A) 8
+B) 4
+C) 16
+D) 2
+
+172. Piramidaning asosi tomoni 4 cm bo'lgan kvadrat, balandligi 3 cm. Piramida hajmini toping.
+A) 16 cm^3
+B) 48 cm^3
+C) 32 cm^3
+D) 12 cm^3
+
+173. Konusning balandligi 6 cm, asos radiusi 8 cm. Konus yon sirtini toping.
+A) 80*pi cm^2
+B) 60*pi cm^2
+C) 100*pi cm^2
+D) 48*pi cm^2
+
+174. A(1, -2) va B(4, 2) nuqtalar orasidagi masofani toping.
+A) 5
+B) 25
+C) sqrt(7)
+D) 6
+
+175. Necha xil usulda 4 ta kitobni javonga yonma-yon taxlash mumkin?
+A) 24
+B) 12
+C) 16
+D) 6
+
+176. Hisoblang: 100^2 - 99^2
+A) 199
+B) 1
+C) 19900
+D) 101
+
+177. Tenglamani yeching: (x^2 - 4) / (x - 2) = 0
+A) -2
+B) 2 va -2
+C) 2
+D) Yechimga ega emas
+
+178. Systemani yeching: x + 2y = 8, 2x - y = 1
+A) x = 2, y = 3
+B) x = 4, y = 2
+C) x = 3, y = 2.5
+D) x = 1, y = 1
+
+179. y = log0.5(x) funksiya uchun qaysi tasdiq to'g'ri?
+A) Kamayuvchi funksiya
+B) O'suvchi funksiya
+C) Juft funksiya
+D) Davriy funksiya
+
+180. Tenglamani yeching: 3^(x^2) = 81
+A) 2 va -2
+B) 2
+C) 4
+D) 16
+
+181. Hisoblang: log2(log3(81))
+A) 2
+B) 1
+C) 4
+D) 3
+
+182. Ifodani soddalashtiring: sin(pi - x) + cos(pi/2 + x)
+A) 0
+B) 2*sin(x)
+C) 2*cos(x)
+D) -2*sin(x)
+
+183. sin(x) = 0 tenglamaning yechimini ko'rsating.
+A) pi*k, k in Z
+B) pi/2 + pi*k, k in Z
+C) 2pi*k, k in Z
+D) pi/2 + 2pi*k, k in Z
+
+184. Arifmetik progressiyada a1 = 5, d = 3. Nechanchi had 29 ga teng?
+A) 9-had
+B) 8-had
+C) 10-had
+D) 7-had
+
+185. Geometrik progressiyada b1 = 1, b4 = 8 bo'lsa, q ni toping.
+A) 2
+B) 4
+C) 3
+D) 1.5
+
+186. f(x) = x^3 - 3x + 1 funksiyaning ekstremum nuqtalarini toping.
+A) -1 va 1
+B) 0 va 1
+C) -1 va 0
+D) 3 va -3
+
+187. f(x) = cos(2x) funksiyaning boshlang'ich funksiyasini toping.
+A) 1/2 * sin(2x) + C
+B) -1/2 * sin(2x) + C
+C) 2 * sin(2x) + C
+D) -2 * sin(2x) + C
+
+188. Aniq integralni hisoblang: int_0^1 (2x + 1) dx
+A) 2
+B) 1
+C) 3
+D) 1.5
+
+189. Teng yonli uchburchakning asosi 8 cm, yon tomoniga tushirilgan balandlik 4.8 cm. Uchburchak yon tomonini toping.
+A) 5 cm
+B) 6 cm
+C) 10 cm
+D) 8 cm
+
+190. Trapetsiyaning o'rta chizig'i 8 cm, balandligi 5 cm. Trapeziya yuzini toping.
+A) 40 cm^2
+B) 20 cm^2
+C) 80 cm^2
+D) 60 cm^2
+
+191. Radiusi 5 cm bo'lgan aylanaga markazdan 3 cm masofada o'tkazilgan vatarning uzunligini toping.
+A) 8 cm
+B) 4 cm
+C) 6 cm
+D) 10 cm
+
+192. Kubning hajmi 27 cm^3. Uning to'la sirtini toping.
+A) 54 cm^2
+B) 36 cm^2
+C) 27 cm^2
+D) 81 cm^2
+
+193. Tsilindrning balandligi 10 cm, asos diametri 6 cm. Tsilindr yon sirti yuzasini toping.
+A) 60*pi cm^2
+B) 30*pi cm^2
+C) 120*pi cm^2
+D) 36*pi cm^2
+
+194. A(2, -1, 4) va B(0, 3, -2) nuqtalar berilgan. AB vektorining uzunligini (modulini) toping.
+A) sqrt(56)
+B) 6
+C) 8
+D) sqrt(24)
+
+195. Qutida 5 ta qizil va 3 ta ko'k shar bor. Qutidan tavakkaliga olingan 2 ta sharning ikkalasi ham qizil bo'lishi ehtimolligini toping.
+A) 5/14
+B) 25/64
+C) 15/56
+D) 5/28
+
+196. Hisoblang: sqrt(12) + sqrt(27) - sqrt(48)
+A) sqrt(3)
+B) 2*sqrt(3)
+C) 0
+D) 3*sqrt(3)
+
+197. Tenglamani yeching: log2(x + 1) + log2(x - 1) = 3
+A) 3
+B) sqrt(10)
+C) -3 va 3
+D) 2
+
+198. f(x) = e^(x^2) funksiyaning hosilasini toping.
+A) 2x * e^(x^2)
+B) e^(x^2)
+C) x * e^(x^2)
+D) 2 * e^(x^2)
+
+199. Teng yonli to'g'ri burchakli uchburchakning gipotenuzasi 6 cm. Uning yuzini toping.
+A) 9 cm^2
+B) 18 cm^2
+C) 36 cm^2
+D) 12 cm^2
+
+200. Shar hajmi 36*pi cm^3. Shar yuzasini toping.
+A) 36*pi cm^2
+B) 18*pi cm^2
+C) 72*pi cm^2
+D) 144*pi cm^2
+--------------------------------------------------------------------------------
+Javoblar kaliti (Matematika 200 Test):
+1-A, 2-A, 3-C, 4-A, 5-A, 6-B, 7-B, 8-A, 9-A, 10-A, 
+11-A, 12-A, 13-A, 14-A, 15-A, 16-A, 17-A, 18-A, 19-A, 20-A, 
+21-A, 22-A, 23-A, 24-A, 25-A, 26-A, 27-A, 28-A, 29-A, 30-A, 
+31-A, 32-A, 33-A, 34-A, 35-A, 36-A, 37-A, 38-A, 39-A, 40-A, 
+41-A, 42-A, 43-A, 44-A, 45-A, 46-A, 47-A, 48-A, 49-A, 50-A, 
+51-A, 52-A, 53-A, 54-A, 55-A, 56-A, 57-A, 58-A, 59-A, 60-A, 
+61-A, 62-A, 63-A, 64-A, 65-A, 66-A, 67-A, 68-A, 69-A, 70-A, 
+71-A, 72-A, 73-A, 74-A, 75-A, 76-A, 77-A, 78-A, 79-A, 80-A, 
+81-A, 82-A, 83-A, 84-A, 85-A, 86-A, 87-A, 88-A, 89-A, 90-A, 
+91-A, 92-A, 93-A, 94-A, 95-A, 96-A, 97-A, 98-A, 99-A, 100-A,
+101-A, 102-A, 103-A, 104-A, 105-A, 106-A, 107-A, 108-A, 109-A, 110-A,
+111-A, 112-A, 113-A, 114-A, 115-A, 116-A, 117-A, 118-A, 119-A, 120-A,
+121-A, 122-A, 123-A, 124-A, 125-A, 126-A, 127-A, 128-A, 129-A, 130-A,
+131-A, 132-A, 133-A, 134-A, 135-A, 136-A, 137-A, 138-A, 139-A, 140-A,
+141-A, 142-A, 143-A, 144-A, 145-A, 146-A, 147-A, 148-A, 149-A, 150-A,
+151-A, 152-A, 153-A, 154-A, 155-A, 156-A, 157-A, 158-A, 159-A, 160-A,
+161-A, 162-A, 163-A, 164-A, 165-A, 166-A, 167-A, 168-A, 169-A, 170-A,
+171-A, 172-A, 173-A, 174-A, 175-A, 176-A, 177-A, 178-A, 179-A, 180-A,
+181-A, 182-A, 183-A, 184-A, 185-A, 186-A, 187-A, 188-A, 189-A, 190-A,
+191-A, 192-A, 193-A, 194-A, 195-A, 196-A, 197-A, 198-A, 199-A, 200-A.
+================================================================================

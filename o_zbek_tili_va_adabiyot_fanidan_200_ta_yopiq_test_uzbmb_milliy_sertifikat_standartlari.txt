@@ -1,0 +1,1436 @@
+================================================================================
+  O'ZBEK TILI VA ADABIYOT FANIDAN 200 TA YOPIQ TEST (UzBMB STANDARTLARI)
+================================================================================
+
+--------------------------------------------------------------------------------
+I QISM: O'ZBEK TILI (GRAMMATIKA, FONETIKA, LEKSIKOLOGIYA, SINTAKSIS) (1–100)
+--------------------------------------------------------------------------------
+
+1. Savol: Qaysi qatordagi so'zlarda faqat til orqa unlisi qatnashgan?
+A) Tosh, qor, bulut, olma
+B) Gul, bahor, kitob, quyosh
+C) Ko'cha, maktab, qalam, daftar
+D) El, yurt, O'zbekiston, dil
+Javob: A
+
+2. Savol: Qaysi so'zda tovush tushishi hodisasi yuz bergan?
+A) Sariq -> sarg'aydi
+B) Qizil -> qizardi
+C) Ikki -> ikkala
+D) Paste -> pastga
+Javob: B
+
+3. Savol: Qaysi qatorda so'zlar juftlik hosil qilishida ma'nodoshlik saqlangan?
+A) Qovun-tarvuz
+B) Aql-idrok
+C) Uy-ro'zg'or
+D) Qozon-tovoq
+Javob: B
+
+4. Savol: "Aql yoshda emas, boshda" maqolida antonimlar qaysi so'z turkumiga oid?
+A) Ot
+B) Sifat
+C) Otlashgan sifat / Ot
+D) Fe'l
+Javob: C
+
+5. Savol: Qaysi qatorda faqat yasama otlar berilgan?
+A) Bilim, terim, unum, yozuv
+B) Kitobxon, gulzor, bog'bon, tosh
+C) Terak, qishloq, paxta, hosil
+D) Yozuvchi, o'quvchi, ko'cha, maktab
+Javob: A
+
+6. Savol: "Uzoqdan kelgan mehmonlar tezda uyga kirishdi." ushbu gapda ravish holi vazifasida kelgan so'zni toping.
+A) Uzoqdan
+B) Tezda
+C) Uyga
+D) Kirishdi
+Javob: B
+
+7. Savol: Qaysi so'z birgalik nisbatida berilgan?
+A) Yozishdi
+B) Kiyindi
+C) Yuvindi
+D) Aynidi
+Javob: A
+
+8. Savol: Qaysi gapda o'zlik nisbatidagi fe'l qo'llanilgan?
+A) Bolalar hovlida yugurishdi.
+B) U kiyindi va ko'chaga chiqdi.
+C) Uy topshirig'i bajarildi.
+D) Dars o'z vaqtida boshlandi.
+Javob: B
+
+9. Savol: Pluralis tantum (faqat ko'plikda qo'llaniluvchi yoki ko'plik qo'shimchasi bilan ma'nosi o'zgaruvchi) hodisasi qaysi so'zda kuzatiladi?
+A) Suvlar
+B) Ota-onalar
+C) Oltinlar
+D) Yillar
+Javob: C
+
+10. Savol: Bog'lovchisiz qo'shma gap berilgan qatorni aniqlang.
+A) Yoz keldi, kunlar isidi.
+B) Yoz keldi va kunlar isidi.
+C) Chunki yoz keldi, kunlar isidi.
+D) Agar yoz kelsa, kunlar isiydi.
+Javob: A
+
+11. Savol: Qaysi qatorda imlo qoidalariga ko'ra xato yozilgan so'z bor?
+A) Toshkentlik
+B) Sentyabr
+C) Sentabr
+D) Munosabat
+Javob: B
+
+12. Savol: Qaysi gapda xilma-xil so'z turkumlaridan yasalgan uyushiq bo'laklar berilgan?
+A) U mehnatkash, halol va aqlli yigit.
+B) Shirin va nordon olmalar terildi.
+C) U sekin, lekin ishonch bilan gapirdi.
+D) Uyda ota, ona va bolalar bor edi.
+Javob: A
+
+13. Savol: Qaysi qatordagi so'zlar shakldosh (omonim) hisoblanadi?
+A) O't (o'simlik) - O't (alanga)
+B) Katta - Yirik
+C) Yuz - Bet
+D) Yaxshi - Yomon
+Javob: A
+
+14. Savol: Paronimlardan to'g'ri foydalanilgan gapni aniqlang.
+A) U mashhur bahr (dengiz) sohilida dam oldi.
+B) Shoir bahr (vazn) usulida she'r yozdi.
+C) A va B javoblar to'g'ri.
+D) To'g'ri javob berilmagan.
+Javob: C
+
+15. Savol: Qaysi so me'zda unli tovush ortishi (proteza) kuzatiladi?
+A) Stul -> ustul
+B) Rayhon -> rayxon
+C) Avgust -> avgus
+D) Sharoit -> sharoyit
+Javob: A
+
+16. Savol: Belgilash olmoshi berilgan qatorni toping.
+A) Hamma, barcha, har kim
+B) Bu, shu, u
+C) Kim, nima, qachon
+D) Men, sen, u
+Javob: A
+
+17. Savol: Qaysi gapda sifatning orttirma darajasi qo'llanilgan?
+A) Eng go'zal shahar — Samarqand.
+B) U mendan kattaroq.
+C) Yaxshi bola elga manzur.
+D) Qizilroq olma oldim.
+Javob: A
+
+18. Savol: Sifatlash va to'ldiruvchi munosabatida kelgan birikmani aniqlang.
+A) Kitobni o'qish
+B) Chiroyli kitob
+C) Oltin soat
+D) A va C
+Javob: D
+
+19. Savol: Qaysi gapda so'z tartibi o'zgargan (inversiya) qo'llanilgan?
+A) Keldi bahor yurtimga.
+B) Yurtimga bahor keldi.
+C) Bahor yurtimga keldi.
+D) Yurtimga keldi bahor.
+Javob: A
+
+20. Savol: Ega va kesim o'rtasida tire qaysi holatda qo'yiladi?
+A) Ega ham, kesim ham ot bilan ifodalanganda.
+B) Kesim fe'l bo'lganda.
+C) Ega kishilik olmoshi bo'lganda.
+D) Har doim.
+Javob: A
+
+21. Savol: Qaysi ibora "juda qo'rqib ketmoq" ma'nosini bildiradi?
+A) Yuragi orqasiga tortib ketmoq
+B) Boshi ko'kka etmoq
+C) Qo'li g'ozga yetmaslik
+D) Og'zining tanobi qochmoq
+Javob: A
+
+22. Savol: Qaysi so'z turkumi faqat gapda yordamchi vazifasini bajaradi?
+A) Ko'makchi
+B) Sifat
+C) Ot
+D) Ravish
+Javob: A
+
+23. Savol: Qaysi qatorda Ergashgan qo'shma gap berilgan?
+A) Kim ko'p o me'qisa, u ko'p biladi.
+B) Bahor keldi va gullar ochildi.
+C) Shamol esdi, barglar to'childi.
+D) Kun botdi, oy chiqdi.
+Javob: A
+
+24. Savol: Modal so'zlar gapda qanday vazifa bajaradi?
+A) So'zlovchining fikrga munosabatini bildiradi.
+B) Bo'laklarni bog me'laydi.
+C) Predmetning belgisini bildiradi.
+D) Harakatni ifodalaydi.
+Javob: A
+
+25. Savol: Qaysi qatorda sifatdosh qatnashgan?
+A) O'qigan talaba
+B) O'qish uchun
+C) O'qiy turib
+D) O'qisa
+Javob: A
+
+26. Savol: Qaysi qatorda ravishdosh berilgan?
+A) Kulib gapirdi
+B) Kulgan bola
+C) Kulishtirish
+D) Kulgi
+Javob: A
+
+27. Savol: Undov so me'zlar qanday his-tuyg'uni ifodalaydi?
+A) Quvonch, hayrat, afsus
+B) Faqat buyruq
+C) So me'zlarni bog'lash
+D) Predmet xususiyati
+Javob: A
+
+28. Savol: Qaysi so'zda tutroq belgisi (') ma'no ajratish vazifasini bajargan?
+A) A'lo (a'lo - alo)
+B) She'r
+C) Ma'lum
+D) Sa'va
+Javob: A
+
+29. Savol: Sodda gapning qaysi turida faqat bir bosh bo'lak (kesim) bo'ladi va ega bo'lmaydi?
+A) Shaxsi noma'lum gap
+B) Ikki bosh bo'lakli gap
+C) Yoyiq gap
+D) Yalang gap
+Javob: A
+
+30. Savol: Qaysi so'z birikmasida boshqaruv munosabati bor?
+A) Maktabga borish
+B) Yaxshi bola
+C) Mening kitobim
+D) Tez yugurish
+Javob: A
+
+31. Savol: Moslashuv munosabatidagi birikmani toping.
+A) Mening daftarim
+B) Uyga kirish
+C) Chiroyli gul
+D) Baland ovozda
+Javob: A
+
+32. Savol: Qaysi qatorda Bitishuv munosabati bor?
+A) Tez gapirmoq
+B) Kitobni o'qimoq
+C) Bizning shahar
+D) Onamga xat
+Javob: A
+
+33. Savol: Neologizm deganda nima tushuniladi?
+A) Tilda yangi paydo bo'lgan so me'zlar
+B) Eski, muomaladan chiqqan so'zlar
+C) Sheva so'zlari
+D) Kasb-hunar so'zlari
+Javob: A
+
+34. Savol: Arxaizm so'zlar berilgan qatorni toping.
+A) Bitig, ilik, yabgu
+B) Kompyuter, telefon, planshet
+C) Qalam, daftar, kitob
+D) Non, suv, tuz
+Javob: A
+
+35. Savol: Istora (metafora) ko'chish turi nimaga asoslanadi?
+A) O'xshashlikka
+B) Aloqadorlikka
+C) Qism va butun munosabatiga
+D) Qarama-qarshilikka
+Javob: A
+
+36. Savol: Metonimiya ko'chish turiga misol ko'rsating.
+A) Auditoriya qarsak chaldi.
+B) Oltin kuz keldi.
+C) Quyosh kulib bo'qmoqda.
+D) Zahar til.
+Javob: A
+
+37. Savol: Qaysi qatorda taqlid so'zlar berilgan?
+A) G'ir-g'ir, tars-turs, yalt-yult
+B) Yaxshi-yomon, katta-kichik
+C) Oh, evah, voy
+D) Barcha, hamma, har kim
+Javob: A
+
+38. Savol: Vositalangan to'ldiruvchi qaysi kelishik qo'shimchalari bilan shakllanadi?
+A) Jo'nalish, o'rin-payt, chiqish kelishiklari va ko'makchilar
+B) Faqat tushum kelishigi
+C) Faqat qaratqich kelishigi
+D) Bosh kelishik
+Javob: A
+
+39. Savol: Vositasiz to'ldiruvchi qaysi kelishikda bo'ladi?
+A) Tushum kelishigida
+B) Jo me'nalish kelishigida
+C) Chiqish kelishigida
+D) O'rin-payt kelishigida
+Javob: A
+
+40. Savol: Qaysi gapda kiritma qatnashgan?
+A) Meningcha, bu topshiriq juda oson.
+B) Hoy bola, beryoqqa kel!
+C) Salom, do'stim!
+D) Voy, qanday go'zal!
+Javob: A
+
+41. Savol: Qaysi gapda kirish so'z bo'laklar bilan grammatik bog me'lanmaydi?
+A) Afsuski, biz kechikdik.
+B) Biz kechikdik.
+C) O'quvchilar kechikishdi.
+D) Kechikkanimiz sababli kira olmadik.
+Javob: A
+
+42. Savol: Undalma qatnashgan gapni aniqlang.
+A) Vatan, seni jonimdan ortiq sevaman!
+B) Vatan — mening faxrim.
+C) Vatanni himoya qilish — burchimiz.
+D) Vatanimiz tinch va obod.
+Javob: A
+
+43. Savol: Qaysi qatordagi so'zda tutroq belgisi ma'no o'zgartiruvchi vazifada kelmagan (faqat ajratish uchun)?
+A) In'om
+B) A'lo
+C) Ko'r'at
+D) Su'at
+Javob: A
+
+44. Savol: Bo'lishsizlik fe'lini hosil qiluvchi qo'shimchani toping.
+A) -ma
+B) -ish
+C) -dir
+D) -gan
+Javob: A
+
+45. Savol: Qaysi ravish turi harakatning bajarilish tarzini bildiradi?
+A) Holat ravishi
+B) Vaqt ravishi
+C) O me'rin ravishi
+D) Daraja-miqdor ravishi
+Javob: A
+
+46. Savol: Terma sanoq sonlar qanday qo'shimcha bilan yasaladi?
+A) -tadan
+B) -inchi
+C) -ovlon
+D) -tacha
+Javob: A
+
+47. Savol: Chog'lashtiruvchi bog'lovchilar berilgan qatorni aniqlang.
+A) Goh ... goh, ba'zan ... ba'zan
+B) Va, hamda, bilan
+C) Lekin, biroq, ammo
+D) Chunki, ya'ni
+Javob: A
+
+48. Savol: Inkor yuklamalari berilgan qatorni toping.
+A) Na ... na, emas, yo'q
+B) Faqat,gina
+C) Ham, hatto
+D) Mi, chi, xususan
+Javob: A
+
+49. Savol: Qaysi so'z turkumi joy nomlari (toponimlar)ni o'rganadi?
+A) Onomastika (Toponimika)
+B) Orfoepiya
+C) Fonetika
+D) Etimologiya
+Javob: A
+
+50. Savol: Sheva so'zlari adabiy tildan nimasi bilan farq qiladi?
+A) Cheklangan hududda qo'llanilishi bilan
+B) Barcha xalq tushunishi bilan
+C) Yozma tilda qo'llanishi bilan
+D) Grammatik qoidalarga to me'liq bo'ysunishi bilan
+Javob: A
+
+51. Savol: So'zning lug'aviy ma'nosi deganda nima tushuniladi?
+A) So'z bildirgan tushuncha va narsa-buyum
+B) So'zning gapdagi vazifasi
+C) So'zning qaysi turkumga oidligi
+D) So'zning kelishik qo'shimchasi
+Javob: A
+
+52. Savol: Qaysi qatorda ko'chma ma'noda qo me'llangan so'z bor?
+A) Oltin yurak
+B) Oltin uzuk
+C) Oltin soat
+D) Oltin koni
+Javob: A
+
+53. Savol: Qaysi gapda buyruq-istak maylidagi fe'l qatnashgan?
+A) Bugun darsga vaqtida keling!
+B) U darsga keldi.
+C) Agar kelsa, ko'rishamiz.
+D) U ertaga kelmoqchi.
+Javob: A
+
+54. Savol: Sifatdosh va otlashgan sifatdosh farqini ko'rsating.
+A) Otlashgan sifatdosh ot kelishiklarini oladi.
+B) Sifatdosh har doim fe'l vazifasida keladi.
+C) Farqi yo'q.
+D) Sifatdosh ot o'rnida kelolmaydi.
+Javob: A
+
+55. Savol: Qaysi qatorda juft so'zlar to'g'ri yozilgan?
+A) Yozi-qishi, em-xashak
+B) Yoz-qish, em xashak
+C) Yozi qishi, emxashak
+D) Yoziqishi, em-xashak
+Javob: A
+
+56. Savol: Qaysi so'zda yonma-yon kelgan ikkita unli bitta tovushdek talaffuz qilinadi (yoki diftong)?
+A) Maorif
+B) Saodat
+C) Oilaviy
+D) Tabiat
+Javob: A
+
+57. Savol: Unlisiz so me'zlar qanday nomlanadi?
+A) Boshqalar (Tildagi barcha so'zlarda kamida bitta unli bo'ladi)
+B) Unlisiz so'z bo'lmaydi
+C) Undosh so me'zlar
+D) Abbreviatura
+Javob: B
+
+58. Savol: Qaysi so'zda jarangsiz undoshlar yonma-yon kelgan?
+A) Maktab
+B) Kitob
+C) Bog'bon
+D) Gulzor
+Javob: A
+
+59. Savol: "Xalq" so'ziga jo'nalish kelishigi qo'shilganda qanday o'zgarish yuz beradi?
+A) Xalqga -> xalqqa (tovush ortishi/jarangsizlashuv)
+B) Xalqga -> xalga
+C) Xalqimga
+D) O'zgarish bo'lmaydi
+Javob: A
+
+60. Savol: Tobe bog'lanishli so'z birikmasi berilgan qatorni aniqlang.
+A) Oltin kuz
+B) Onam va otam
+C) Keldi va ketdi
+D) Yaxshi hamda yomon
+Javob: A
+
+61. Savol: Qaysi gapda ravish holi payt ma'nosini bildirmoqda?
+A) Kecha do me'stimni ko'rdim.
+B) U sekin yurdi.
+C) Uyda o o'tirdi.
+D) Ko'p o'qidi.
+Javob: A
+
+62. Savol: Holning qaysi turi sababni ko'rsatadi?
+A) Sabab holi
+B) Maqsad holi
+C) Tarz holi
+D) O'rin holi
+Javob: A
+
+63. Savol: Masdar (harakat nomi) qaysi qo'shimchalar yordamida yasaladi?
+A) -ish, -moq, -uv
+B) -gan, -kan
+C) -ib, -a, -y
+D) -sa, -slik
+Javob: A
+
+64. Savol: O'zlik olmoshini toping.
+A) O'z
+B) Men
+C) Bu
+D) Kim
+Javob: A
+
+65. Savol: Suroq olmoshlari berilgan qatorni aniqlang.
+A) Kim, nima, qachon, qaerda
+B) Hamma, barcha, har bir
+C) Bu, shu, o'sha
+D) Hech kim, hech nima
+Javob: A
+
+66. Savol: Qaysi so'zda sonor undoshlar bor?
+A) M, n, l, r
+B) B, v, g, d
+C) P, f, k, t
+D) Sh, ch, s, x
+Javob: A
+
+67. Savol: Unlilar tilning gorizontal harakatiga ko'ra qanday guruhlanadi?
+A) Old unlilar va til orqa unlilar
+B) Yopiq va ochiq
+C) Lablangan va lablanmagan
+D) Uzun va qisqa
+Javob: A
+
+68. Savol: Qaysi qatordagi so'zlar o'zbek tilining o'z qatlamiga oid?
+A) Suv, yer, ko'z, qo'l
+B) Kitob, maktab, qalam, daftar
+C) Kompyuter, internet, telefon
+D) Shahar, viloyat, hokim
+Javob: A
+
+69. Savol: O'zlashma so'zlar qaysi tillardan kirib kelgan?
+A) Arab, fors, rus, ovrupa tillaridan
+B) Faqat ingliz tilidan
+C) Faqat xitoy tilidan
+D) O'zlashma so'zlar yo'q
+Javob: A
+
+70. Savol: Qaysi gapda sabab ergash gapli qo'shma gap berilgan?
+A) Kechikkanim sababli, darsga kira olmadim.
+B) U keldi va biz ketdik.
+C) Kim ishlasa, u tishlaydi.
+D) Bahor kelsa, gullar ochiladi.
+Javob: A
+
+71. Savol: Maqsad ergash gapli qo'shma gapni toping.
+A) Bilim olish uchun maktabga bordim.
+B) Yomg'ir yog'gani uchun uyda qoldim.
+C) U shunday gapirdiki, hamma hayron qoldi.
+D) Agar vaqtim bo'lsa, boraman.
+Javob: A
+
+72. Savol: Qaysi so'z turkumi daraja ko'rsatkichlariga ega?
+A) Sifat va ravish
+B) Ot va son
+C) Fe'l va olmosh
+D) Ko'makchi va bog'lovchi
+Javob: A
+
+73. Savol: Jamlovchi son berilgan qatorni aniqlang.
+A) Ikkovlon, uchov, beshov
+B) Birinchi, ikkinchi
+C) O'ntacha, yuztacha
+D) Bir-bir, ikki-ikki
+Javob: A
+
+74. Savol: Kasr son aks etgan qatorni toping.
+A) Bir yarim, ikkidan bir, uchdan ikki
+B) O'nta, yuzta
+C) Beshinchi, oltinchi
+D) Yuzlab, minglab
+Javob: A
+
+75. Savol: Qaysi gapda shart maylidagi fe'l bor?
+A) Vaqting bo'lsa, kitob o'qi.
+B) Kitob o'qish foydali.
+C) U kitob o'qiyapti.
+D) Kitobni o'qib bo'ldim.
+Javob: A
+
+76. Savol: Qaysi gapda to'liqsiz fe'l (edi, ekan, emish) qo'llanilgan?
+A) U kecha kelgan edi.
+B) U kelmoqda.
+C) U ertaga keladi.
+D) Kel, birga o'qiymiz.
+Javob: A
+
+77. Savol: Fe'lning davomiylik nisbati / shakli qanday hosil bo'ladi?
+A) Fe'l + -yotibdi / -moqda
+B) Fe'l + -di
+B) Fe'l + -gan
+D) Fe me'l + -sa
+Javob: A
+
+78. Savol: Bosh gap va ergash gap o me'rtasida qanday tinish belgisi qo'yilishi mumkin?
+A) Vergul
+B) Nuqta
+C) Ko'p nuqta
+D) Qavs
+Javob: A
+
+79. Savol: Ko'chirma gapli qo'shma gapda muallif gapi ko'chirma gapdan oldin kelsa, qanday tinish belgisi qo'yiladi?
+A) Ikki nuqta va tirnoq (Muallif gapi: "Ko'chirma gap.")
+B) Vergul va tire
+C) Faqat tire
+D) Nuqta
+Javob: A
+
+80. Savol: Muallif gapi ko'chirma gapdan keyin kelsa-chi?
+A) "Ko'chirma gap", — muallif gapi.
+B) Muallif gapi: "Ko'chirma".
+C) "Ko'chirma" - muallif gapi.
+D) "Ko me'chirma." Muallif gapi.
+Javob: A
+
+81. Savol: Qaysi gapda dialog qoidalari to'g'ri aks etgan?
+A) — Qayerga ketyapsan? — so'radi ali. — Maktabga, — javob berdi vali.
+B) "Qayerga ketyapsan" so'radi ali.
+C) - Qayerga ketyapsan, - so'radi Ali.
+D) Dialogda tinish belgisi qo'yilmaydi.
+Javob: A
+
+82. Savol: Qaysi qatorda faqat o'zlashma fe'llar berilgan?
+A) Tashkil etmoq, start olmoq, import qilmoq
+B) Yozmoq, o'qimoq, kelmoq
+C) Ishlamoq, o'ylamoq, o'tirmoq
+D) Kulmoq, yig'lamoq, chopmoq
+Javob: A
+
+83. Savol: Fe'ldan yasalgan otlar qatorini ko'rsating.
+A) Suvchi, bog'bon, do me me'stlik
+B) O'roq, suvoq, bilim, kiyim
+C) Toshkent, Samarqand, Buxoro
+D) Qalam, daftar, kitob
+Javob: B
+
+84. Savol: Sifatdan yasalgan otlarni toping.
+A) Yaxshilik, go'zallik, yomonlik
+B) O'qituvchi, hayovchi
+C) Ishchi, paxtakor
+D) Nonvoy, qassob
+Javob: A
+
+85. Savol: Qaysi gapda uyushiq holat kelgan?
+A) U tez, chaqqon va bexato yozdi.
+B) U tez yozdi.
+C) Uyda va maktabda o'qidi.
+D) Bola va qiz keldi.
+Javob: A
+
+86. Savol: Yig'iq sodda gap deb nimaga aytiladi?
+A) Faqat bosh bo'laklardan (ega va kesimdan) iborat gapga
+B) Ikkinchi darajali bo'laklari bor gapga
+C) Bir bo'lakli gapga
+D) Qo'shma gapga
+Javob: A
+
+87. Savol: Yoyiq sodda gap nimasi bilan farq qiladi?
+A) Ikkinchi darajali bo'laklar ham qatnashishi bilan
+B) Faqat egasi borligi bilan
+C) Faqat kesimi borligi bilan
+D) Bog'lovchilari borligi bilan
+Javob: A
+
+88. Savol: Qaysi qatorda so'zning shakllari berilgan (yangi so'z yasalmagan)?
+A) Kitob, kitobni, kitobga, kitobda
+B) Kitob, kitobxon, kitobshunos
+C) Gul, gulzor, gulchi
+D) Ish, ishchi, ishlamoq
+Javob: A
+
+89. Savol: O'zbek tilida urg'u asosan so'zning qaysi bo me'g'iniga tushadi?
+A) Oxirgi bo'g me'niga
+B) Birinchi bo'g'inga
+C) O'rtadagi bo'g'inga
+D) Urg'u tushmaydi
+Javob: A
+
+90. Savol: Qaysi so me'zlarda urg'u birinchi bo'g'inga tushadi?
+A) Boshqa tillardan kirgan ba'zi so'zlarda (masalan: hamma, hatto, lekin, ba'zan)
+B) Barcha o'zbekcha so'zlarda
+C) Faqat fe'llarda
+D) Faqat sifatlarda
+Javob: A
+
+91. Savol: Bo'g'in ko'chirish qoidasiga ko'ra qaysi so'z to'g me'ri bo'lingan?
+A) Mak-tab
+B) M-ak-tab
+C) Makta-b
+D) Ma-ktab
+Javob: A
+
+92. Savol: Bitta unlidan iborat bo'g'inni satr oxirida qoldirish mumkinmi?
+A) Mumkin emas
+B) Mumkin
+C) Faqat bosh harf bo'lsa mumkin
+D) Qoidasi yo'q
+Javob: A
+
+93. Savol: Qaysi qatordagi so'zlar bir ma'noli (monosemantik)?
+A) Birikma, gipotenuza, fonema (ilmiy terminlar)
+B) Yuz, ko me'z, til
+C) O't, bosh, maysa
+D) Suv, yer, havo
+Javob: A
+
+94. Savol: Ko'p ma'noli (polisemantik) so'zni aniqlang.
+A) Bosh (odamning boshi, ariqning boshi, piyozning boshi)
+B) Traktor
+C) Ot
+D) Vodorod
+Javob: A
+
+95. Savol: Qaysi gapda tushum kelishigi belgisiz qo me'llangan?
+A) U kitob o'qiyapti (kitobni o'qiyapti).
+B) Men maktabga bordim.
+C) Uyda hech kim yo'q.
+D) Do'stimdan xat oldim.
+Javob: A
+
+96. Savol: Qaratqich kelishigi belgisiz qo'llangan gapni toping.
+A) Maktab hovlisi (Maktabning hovlisi) ozoda.
+B) Kitobni ber.
+C) Uyga kirdim.
+D) Onam bilan gaplashdim.
+Javob: A
+
+97. Savol: Qaysi qatorda qarashlilik / tegishlilik ma'nosi bor?
+A) Mening vatanim
+B) Toshkentga borish
+C) Yaxshi o'qish
+D) Tez yugurmoq
+Javob: A
+
+98. Savol: Sintaksis bo me'limida nima o'rganiladi?
+A) So'z birikmasi va gap
+B) So'z tarkibi va yasaliishi
+C) Tovushlar va harflar
+D) So'zning ma'nosi
+Javob: A
+
+99. Savol: Morfologiya bo'limida nima o'rganiladi?
+A) So'z turkumlari va so'z shakllari
+B) Gap turlari
+C) Imlo qoidalari
+D) Lug'at tarkibi
+Javob: A
+
+100. Savol: Grafika bo'limida nima o me'rganiladi?
+A) Yozuv va harf munosabatlari
+B) So'z birikmasi
+C) Dialektlar
+D) Maqollar
+Javob: A
+
+--------------------------------------------------------------------------------
+II QISM: ADABIYOT (MUMTOZ VA ZAMONAVIY ADABIYOT) (101–200)
+--------------------------------------------------------------------------------
+
+101. Savol: "Alpomish" dostonida Barchinoyning shartlaridan biri qaysi edi?
+A) Yoy tortish va poyga
+B) Topishmoq aytish
+C) Kurash tushish
+D) She'r aytish
+Javob: A
+
+102. Savol: O'zbek xalq qahramonlik dostoni "Alpomish"da Barchinoyga sovchi bo'lib borgan qalmoq alpining ismi nima?
+Javob / A) Karajon
+B) Ultanzo'r
+C) Qultoy
+D) Toylat
+Javob: A
+
+103. Savol: "Avesto" muqaddas kitabidagi eng qadimgi madhiyalar qanday nomlanadi?
+A) Gatlar
+B) Yasna
+C) Vendidod
+D) Vispered
+Javob: A
+
+104. Savol: Qadimgi turkiy adabiyot namunasi bo'lmish "Kultegin" bitiktoshi qaysi alifboda yozilgan?
+A) Runa (Orxon-Enasoy) yozuvida
+B) Uyg'ur yozuvida
+C) Arab yozuvida
+D) So'g'd yozuvida
+Javob: A
+
+105. Savol: "Devonu lug'atit-turk" asarining muallifi kim?
+A) Mahmud Qashqariy
+B) Yusuf Xos Hojib
+C) Ahmad Yugnaki
+D) Ahmad Yassaviy
+Javob: A
+
+106. Savol: "Qutadg'u bilig" (Baxatga eltuvchi bilim) dostonining muallifi va u qaysi hukmdorga bag'ishlangan?
+A) Yusuf Xos Hojib; Tavg'ach Bug'rxonga
+B) Mahmud Qashqariy; Mahmud G'aznaviyga
+C) Ahmad Yugnaki; Dad Sipahsalarbekka
+D) Alisher Navoiy; Sulton Husayn Boyqaroga
+Javob: A
+
+107. Savol: "Qutadg'u bilig" dostonida Odgurmish obrazi nimani ramziy ifodalaydi?
+A) Qanoat va oqibatni (zuhd va taqvoni)
+B) Adolatni
+C) Davlat va davlatni
+D) Aql-idrokni
+Javob: A
+
+108. Savol: "Hibat ul-haqoyiq" (Haqiqatlar xazinasi) asarining muallifi kim?
+A) Ahmad Yugnaki
+B) Ahmad Yassaviy
+C) Sulaymon Boqirg'oniy
+D) Rabg'uziy
+Javob: A
+
+109. Savol: "Hikmat"lar muallifi, turkiy tasavvuf she'riyatining asoschisi kim?
+A) Xoja Ahmad Yassaviy
+B) Bahouddin Naqshband
+C) Najmiddin Kubro
+D) So'fi Olloyor
+Javob: A
+
+110. Savol: "Qisasi Rabg'uziy" asari qaysi janrga oid va uning muallifi kim?
+A) Payg'ambarlar haqidagi qissalar; Nosiruddin Rabg'uziy
+B) Doston; Sayfi Saroyi
+C) G'azallar to'plami; Xorazmiy
+D) Tarixiy drama; Ogahiy
+Javob: A
+
+111. Savol: "Muhabbatnoma" nomli noma (nomai muhabbat) janridagi mashhur asar muallifi kim?
+A) Xorazmiy
+B) Sayfi Saroyi
+C) Durbek
+D) Qutb
+Javob: A
+
+112. Savol: "Guldasta" va "Guliston bit-turkiy" asarlarining muallifi va u qaysi Sharq mumtoz shoirining asariga tatabbug' (javob) hisoblanadi?
+A) Sayfi Saroyi; Sa'diy Sheroziyning "Guliston"iga
+B) Xorazmiy; Hofiz Sheroziyga
+C) Durbek; Nizomiy Ganjaviyga
+D) Lutfiy; Jomiyga
+Javob: A
+
+113. Savol: "Yusuf va Zulayxo" dostonining turkiy tildagi mashhur versiyasini XV asr boshida yaratgan shoir kim?
+A) Durbek
+B) Qutb
+C) Xorazmiy
+D) Navoiy
+Javob: A
+
+114. Savol: XV asr o'zbek adabiyotining "Malik ul-kalom" (so'z podshosi) unvoniga sazovor bo me'lgan va g'azal janrini yuksaltirgan shoir kim?
+A) Lutfiy
+B) Atoyi
+C) Sakkokiy
+D) Gadoiy
+Javob: A
+
+115. Savol: Alisher Navoyining birinchi she'riy devoni qanday nomlanadi?
+A) "Badoyi ul-bidoya" (yoki "Bada'i al-bidayah")
+B) "G'aroyib us-sighar"
+C) "Xazoyin ul-ma'oni"
+D) "Fevoyid ul-kibar"
+Javob: A
+
+116. Savol: Alisher Navoyining to'rt devondan iborat ulkan she'riy majmuasi qanday nomlanadi?
+A) "Xazoyin ul-ma'oni" (Ma'nolar xazinasi)
+B) "Xamsa"
+C) "Mizon ul-avzon"
+D) "Majolis un-nafois"
+Javob: A
+
+117. Savol: Alisher Navoyining "Xamsa"siga kiruvchi birinchi doston qaysi?
+A) "Hayrat ul-abror"
+B) "Farhod va Shirin"
+C) "Layli va Majnun"
+D) "Sabbai sayyor"
+Javob: A
+
+118. Savol: Navoyining "Farhod va Shirin" dostonida Farhodning ustozi, arman mulkining Bosh me'mori kim edi?
+A) Bonu va Qaranqu (Karan) / Shopur va Moniy
+B) Bosh me'mor Qaranqu
+C) Me'mor Barchin
+D) Xusrav Parviz
+Javob: B
+
+119. Savol: Navoyining "Sabbai sayyor" (Yetti sayyora) dostonining bosh qahramoni bo'lgan shoh va uning sevgilisi kim?
+A) Bahrom va Dilorom
+B) Farhod va Shirin
+C) Layli va Majnun
+D) Iskandar va Ravshanak
+Javob: A
+
+120. Savol: Navoyining "Lison ut-tayr" (Qushlar tili) dostonida qushlar poytaxtiga yetib borib, o'zlarining Simurg' ekanligini anglagan qushlar soni nechta edi?
+A) 30 ta (Si-murg' - o'ttiz qush)
+B) 40 ta
+C) 100 ta
+D) 7 ta
+Javob: A
+
+121. Savol: Alisher Navoyining turkiy shoirlar va tazkira janriga bag'ishlangan mashhur tazkirasi qanday nomlanadi?
+A) "Majolis un-nafois"
+B) "Muhokamat ul-lug'atayn"
+C) "Mizon ul-avzon"
+D) "Tarixi muluki Ajam"
+Javob: A
+
+122. Savol: Zahiriddin Muhammad Boburning dunyoga mashhur memuar (esdalik) asari qanday nomlanadi?
+A) "Boburnoma" (Vaqoyi)
+B) "Mubayyin"
+C) "Xatti Boburiy"
+D) "Risolai aruz"
+Javob: A
+
+123. Savol: Boburning islom fiqhi va shariat qoidalariga bag'ishlangan va o'g'illariga nasihat tarzida yozilgan masnaviysi qanday nomlanadi?
+A) "Mubayyin" ("Mubayyinul-islom")
+B) "Boburnoma"
+C) "Risolai validiya"
+D) "Aruz risolasi"
+Javob: A
+
+124. Savol: XVI asrda yashab o'tgan va "Shayboniynoma" dostonini yozgan shoir kim?
+A) Muhammad Solih
+B) Majlisi
+C) Poshshohoja
+D) Ubaydiy
+Javob: A
+
+125. Savol: XVII asrda Xivada yashagan, "Shajarayi turk" va "Shajarayi tarakima" tarixdorlik asarlarining muallifi bo'lgan xon va shoir kim?
+A) Abulg'ozixon
+B) Feruz
+C) Anbar Otin
+D) Munis
+Javob: A
+
+126. Savol: XVIII asrda yashab, Buxoro amirligida ma'rifatparvarlik va tasavvufiy g'oyalarni ilgari surgan, "Sabot ul-ojizin" asari muallifi kim?
+A) So'fi Olloyor
+B) Mashrab
+C) Turdi Farog me'iy
+D) Huvaido
+Javob: A
+
+127. Savol: Boborahim Mashrab she'riyatining asosiy g'oyasi va yo'nalishi nima edi?
+A) Isyonkorlik, tasavvufiy ishq va zohidlar tanqidi
+B) Saroy madhiyalari
+C) Tarixiy voqealar bayoni
+D) Dastlabki darsliklar yaratish
+Javob: A
+
+128. Savol: XVII-XVIII asrlarda yashagan va "Dar mazammati sipohigari" (Harbiylik xususida tanqid) g'azalini yozgan isyonkor shoir kim?
+A) Turdi Farog'iy
+B) Mashrab
+C) Huvaido
+D) Nishotiy
+Javob: A
+
+129. Savol: XVII asr oxiri XVIII asr boshida "Husnu Dil" nomli majoziy dostonini yaratgan shoir kim?
+A) Nishotiy
+B) Sayqaliy
+C) Amiriy
+D) Nodira
+Javob: A
+
+130. Savol: XVIII asrda "Ravoziy" taxallusi bilan ham she'rlar yozgan va "Qissai Rabg'uziy"ni qayta ishlagan shoir va mutafakkir kim?
+A) Sayqaliy
+B) Munis Shermuhammad
+C) Ogahiy
+D) Gulxaniy
+Javob: A
+
+131. Savol: XIX asr Qo'qon adabiy muhitining homiysi va shoiri, "Amiriy" taxallusi bilan she'rlar yozgan hukmdor kim?
+A) Umarxon
+B) Olimxon
+C) Madalixon
+D) Shohruxbiy
+Javob: A
+
+132. Savol: Qo'qon xonligida yashab o'tgan, "Komona", "Nodira" va "Maknuna" taxalluslari bilan o'zbek hamda fors tillarida ijod qilgan shoira kim?
+A) Nodira (Mohlaroyim)
+B) Uvaysiy
+C) Anbar Otin
+D) Dilshod Barno
+Javob: A
+
+133. Savol: "Anor", "Lola", "Limon" kabi lirik va ma'rifiy chistonlar (topishmoqlar) muallifi bo'lgan shoira kim?
+A) Uvaysiy (Jahonotin)
+B) Nodira
+C) Zebunniso
+D) Anbar Otin
+Javob: A
+
+134. Savol: "Zarb ul-masal" (Masallar to'plami) majmuasining muallifi va undagi mashhur masallardan birini ko'rsating.
+A) Gulxaniy; "Yapon va Yapaloqqush" (Kuzg'un va Yapon)
+B) Muqimiy; "Veksel"
+C) Furqat; "Gimnaziya"
+D) Avloniy; "Toshkent"
+Javob: A
+
+135. Savol: XIX asr Xorazm adabiy va madaniy muhitining rahnamosi, "Feruz" taxallusi bilan she'rlar yozgan Xiva xoni kim?
+A) Muhammad Rahimxon II (Feruz)
+B) Abulg'ozixon
+C) Sayid Muhammadxon
+D) Olloqulixon
+Javob: A
+
+136. Savol: XIX asr Xorazm ma'rifatparvarlik adabiyotining yirik vakili, tarjimon, shoir va historian "Riyoziud-davla" asari muallifi kim?
+A) Ogahiy (Muhammad Rizo)
+B) Munis
+C) Bayoniy
+D) Avaz O'tar
+Javob: A
+
+137. Savol: XIX asr oxirida Turkistonda vaqtli matbuot va yangi maktablar targ'ibotchisi, "Gimnaziya", "Ilm xosiyati" she'rlari muallifi kim?
+A) Zokirjon Holmuhammad o'g'li Furqat
+B) Muhammad Aminxo'ja Muqimiy
+C) Avaz O'tar
+D) Saidahmad Siddiqiy-Adjiy
+Javob: A
+
+138. Savol: Muqimiyning satirik va yumoristik asarlariga qaysi biri kiradi?
+A) "Tanobchilar", "Veksel", "Sayohatnoma"
+B) "Keksalik", "Bahor"
+C) "O'tkan kunlar"
+D) "Sarbadorlar"
+Javob: A
+
+139. Savol: XX asr boshlaridagi O'zbek milliy uyg'onish adabiyotining otasi, birinchi o'zbek romani muallifi kim?
+A) Abdulla Qodiriy
+B) Abdulhamid Cho'lpon
+C) Abdurauf Fitrat
+D) Mahmudxo'ja Behbudiy
+Javob: A
+
+140. Savol: Abdulla Qodiriyning "O'tkan kunlar" romani voqealari qaysi tarixiy davrda va qaysi xonlik burchaklarida sodir bo'ladi?
+A) XIX asr o'rtalari, Qo'qon xonligi (Toshkent, Marg'ilon, Qo'qon)
+B) Amir Temur davri
+C) Shayboniylar davri
+D) XX asr boshlari
+Javob: A
+
+141. Savol: "O'tkan kunlar" romanining bosh qahramonlari kimlar?
+A) Otabek va Kumushbibi (shuningdek Zaynab)
+B) Anvar va Ra'no
+C) Yormat va Maryam
+D) Elparvar va Oyparchin
+Javob: A
+
+142. Savol: Abdulla Qodiriyning ikkinchi tarixiy romani "Mehrobdan chayon"da qaysi xon davridagi xudbinlik va zulm fosh etiladi?
+A) Xudoyorxon davri
+B) Umarxon davri
+C) Olimxon davri
+D) Nasrullaxon davri
+Javob: A
+
+143. Savol: "Mehrobdan chayon" romanidagi pok va sevgisiga sodiq yoshlar kimlar?
+A) Anvar va Ra'no
+B) Otabek va Kumush
+C) Qodiriy va Nigora
+D) Hasan va Zuhra
+Javob: A
+
+144. Savol: XX asr o'zbek she'riyatida yangi uslub va erkin vaznlarni olib kirgan, "Kecha va kunduz" romani muallifi kim?
+A) Abdulhamid Sulaymon o'g'li Cho'lpon
+B) Abdulla Qodiriy
+C) Abdurauf Fitrat
+D) Usmon Nosir
+Javob: A
+
+145. Savol: Cho'lponning "Kecha va kunduz" romanidagi asosiy fojiaviy ayol obrazi kim?
+A) Zebi (Zebiniso)
+B) Kumush
+C) Ra'no
+D) Jamila
+Javob: A
+
+146. Savol: "Abulfayzxon", "O'zbek qadimgi adabiyoti namunasi", "Satanang contributes" kabi asarlar muallifi, buyuk jadid allomasi kim?
+A) Abdurauf Fitrat
+B) Mahmudxo'ja Behbudiy
+C) Fayzulla Xo'jayev
+D) Hamza Hakimzoda
+Javob: A
+
+147. Savol: Turkistonda birinchi professional sahna dramasi bo'lmish "Padarkush" dramasi muallifi va u qaysi yili sahnalashtirilgan?
+A) Mahmudxo'ja Behbudiy, 1911 (1913-y nashr, 1914-y sahna)
+B) Abdulla Qodiriy, 1920
+C) Hamza, 1915
+D) Cho'lpon, 1922
+Javob: A
+
+148. Savol: "Maysaraning ishi", "Boy ila xizmatchi" dramalarining muallifi kim?
+A) Hamza Hakimzoda Niyoziy
+B) Abdulla Qodiriy
+C) Fitrat
+D) G'afur G'ulom
+Javob: A
+
+149. Savol: O'zbek bolalar adabiyotining yirik vakili, "Shum bola" qissasining muallifi kim?
+A) G'afur G'ulom
+B) Oybek
+C) Mirtemir
+D) Zulfiya
+Javob: A
+
+150. Savol: G'afur G'ulomning Ikkinchi jahon urushi yillarida yozilgan va xalqqa ruhiy dalda bergan mashhur she'ri qaysi?
+A) "Sen yetim emassan"
+B) "Sog'inch"
+C) "Bizning ko'chada ham bayram bo'lajak"
+D) "G'azal"
+Javob: A
+
+151. Savol: Muso Toshmuhammad o'g'li Oybekning Alisher Navoiy hayoti va ijodiga bag'ishlangan mashhur romani qanday nomlanadi?
+A) "Navoiy" romani
+B) "Qutlug' qon"
+C) "Oltin vodiydan shabadalar"
+D) "Ulug' yo'l"
+Javob: A
+
+152. Savol: Oybekning "Qutlug' qon" romanidagi bosh qahramon – mard va mehnatkash yigit kim?
+A) Yo'lchi
+B) Mirzakarimboy
+C) Yormat
+D) Gulnor
+Javob: A
+
+153. Savol: O'zbek adabiyotida portret yaratish va ruhiy tahlil ustasi, "Sarab", "O'tmishdan ertaklar" asarlari muallifi kim?
+A) Abdulla Kahhor
+B) Oybek
+C) G'afur G'ulom
+D) Hamid Olimjon
+Javob: A
+
+154. Savol: Abdulla Qahhorning "Dahshat", "Anor", "Bemor", "O'g'ri" kabi mashhur hikoyalarida qanday mavzu yoritilgan?
+A) Eski tuzum va xalqning og'ir turmush tarzi, uning fojialari
+B) Urush yillari
+C) Zamonaviy yoshlar hayoti
+D) Kosmik parvozlar
+Javob: A
+
+155. Savol: "Shoirning yoshligi" dramasi va "Zaynab va Omon" dostonining muallifi, jo'shqin lirik shoir kim?
+A) Hamid Olimjon
+B) Usmon Nosir
+C) Mirtemir
+D) Zulfiya
+Javob: A
+
+156. Savol: "Yurak", "Niyoziy", "Yana kutilmagan baxt" she'rlari muallifi, stalincha qatg'on qurboni bo'lgan otashin shoir kim?
+A) Usmon Nosir
+B) Hamid Olimjon
+C) Cho'lpon
+D) Fitrat
+Javob: A
+
+157. Savol: O'zbek xalqining sevimli shoirasi, "Bahor keldi seni so'roqlab", "Xotiram siniqlari" to'plamlari muallifi kim?
+A) Zulfiya (Zulfiya Isroilova)
+B) Saida Zunnunova
+C) Halima Xudoyberdiyeva
+D) Enaxon Siddiqova
+Javob: A
+
+158. Savol: Mirtemirning o'zbek xalq og'zaki ijodi uslubida yozilgan va insoniy fazilatlarni ulug'lovchi mashhur poemasi qaysi?
+A) "Surat" poemasi
+B) "Kipriklarim"
+C) "Qoraqalpoq daftari"
+D) "Ona tuproq"
+Javob: A
+
+159. Savol: XX asrning ikkinchi yarmida "Sarvboshim", "Yulduzli tunlar", "Avlodlar dovoni" kabi tarixiy romanlarni yaratgan adib kim?
+A) Pirimqul Qodirov
+B) Odil Yoqubov
+C) Asad Dilmurod
+D) Muhammad Ali
+Javob: A
+
+160. Savol: Pirimqul Qodirovning Bobur va Boburiylar sulolasi tarixiga bag'ishlangan eng yirik romani qaysi?
+A) "Yulduzli tunlar" (Bobur)
+B) "Avlodlar dovoni" (Humoyun va Akbar)
+C) "Humoyun va Akbar"
+D) "Uch ildiz"
+Javob: A
+
+161. Savol: Odil Yoqubovning Mirzo Ulug'bek va uning fojiali taqdiri haqida yozilgan mashhur tarixiy romani qanday nomlanadi?
+Javob / A) "Ulug me'bek xazinasi"
+B) "Diyonat"
+C) "Ota qabri"
+D) "Ko'hna dunyo"
+Javob: A
+
+162. Savol: Odil Yoqubovning "Ko'hna dunyo" romani qaysi ikki buyuk allomaning hayoti va do'stligiga bag'ishlangan?
+A) Abu Rayhon Beruniy va Abu Ali ibn Sina
+B) Navoiy va Jomiy
+C) Ulug'bek va Ali Qushchi
+D) Al-Xorazmiy va Al-Farg'oniy
+Javob: A
+
+163. Savol: O'zbek adabiyotida psixologik nasr va qissa janrini yuksaltirgan, "Dunyoning ishlari", "O'tkir Hoshimov" muallifi kim?
+A) O'tkir Hoshimov
+B) Said Ahmad
+C) Erkin Vohidov
+D) Abdulla Oripov
+Javob: A
+
+164. Savol: O'tkir Hoshimovning Ikkinchi jahon urushi asoratlari va insoniy fojialar yoritilgan eng mashhur romani qaysi?
+A) "Ikki eshik orasi"
+B) "Tushda kechgan umrlar"
+C) "Dunyoning ishlari"
+D) "Bahor qaytmaydi"
+Javob: A
+
+165. Savol: O'tkir Hoshimovning onaga bo'lgan cheksiz ehtirom va muhabbat aks etgan qissalar to'plami qanday nomlanadi?
+A) "Dunyoning ishlari"
+B) "Oftob olamni yoritadi"
+C) "Qalbingga quloq sol"
+D) "Nur borki, soya bor"
+Javob: A
+
+166. Savol: "Ufq" trilogiyasi, "Kelinchaklar" komediyasi va "Yo'qotilgan umr" asarlari muallifi, O'zbekiston Qahramoni kim?
+A) Said Ahmad
+B) O'tkir Hoshimov
+C) Erkin Vohidov
+D) Abdulla Oripov
+Javob: A
+
+167. Savol: Said Ahmadning "Ufq" trilogiyasiga kiruvchi uchta roman qaysilar?
+A) "Qirq besh kun", "Hijron kunlarida", "Ufq bo'sag'asida"
+B) "O'tkan kunlar", "Mehrobdan chayon", "Obid ketmon"
+C) "Navoiy", "Qutlug' qon", "Ulug' yo'l"
+D) "Yulduzli tunlar", "Avlodlar dovoni", "Ona lochin nidosi"
+Javob: A
+
+168. Savol: O'zbekiston Qahramoni, shoir va dramaturg, "O'zbegim" qasidasi va "Ruhlar isyoni" dostonining muallifi kim?
+A) Erkin Vohidov
+B) Abdulla Oripov
+C) Halima Xudoyberdiyeva
+D) Muhammad Yusuf
+Javob: A
+
+169. Savol: Erkin Vohidovning hind shoiri Bxatrxariga bag'ishlangan, inson ruhiyati va erkinligi tasvirlangan dostoni qaysi?
+A) "Ruhlar isyoni"
+B) "Nido"
+C) "Palatali uy"
+D) "Daniyolbek"
+Javob: A
+
+170. Savol: O'zbekiston Respublikasi Davlat madhiyasi matnining muallifi, O'zbekiston Qahramoni, "Haj daftari" va "Jannatga yo'l" dostonlari muallifi kim?
+A) Abdulla Oripov
+B) Erkin Vohidov
+C) Muhammad Yusuf
+D) Mirtemir
+Javob: A
+
+171. Savol: Abdulla Oripovning milliy g'urur va vatandoshlik hissini ulug'lovchi mashhur doston va she'riy to'plami qaysi?
+A) "O me'zbekiston" she'ri / "Jannatga yo'l"
+B) "O'zbegim"
+C) "Lochin"
+D) "Surat"
+Javob: A
+
+172. Savol: Samimiy va xalqchil she'rlari bilan elga tanilgan, "Lochin", "Biz baxtli bo'lamiz", "Toshkentga sayohat" to'plamlari va "O'zbekiston" she'ri muallifi kim?
+A) Muhammad Yusuf
+B) Shavkat Rahmon
+C) Rauf Parfi
+D) Omon Matjon
+Javob: A
+
+173. Savol: Zamonaviy o'zbek she'riyatida o'ziga xos tasavvufiy-falsafiy yo'nalish va sonet janrini rivojlantirgan shoir kim?
+A) Rauf Parfi
+B) Shavkat Rahmon
+C) Usmon Azim
+D) Xurshid Davron
+Javob: A
+
+174. Savol: "Yurak qirralari", "Hulkar", "Gullayotgan tosh" to'plamlari muallifi, isyonkor va jo'shqin ruhiyatli shoir kim?
+A) Shavkat Rahmon
+B) Rauf Parfi
+C) Muhammad Yusuf
+D) Sirojiddin Sayyid
+Javob: A
+
+175. Savol: Drama va ssenariylar ustasi, "Sohibqiron" dramasi va "Alpomishning qaytishi" asarlari muallifi kim?
+A) Usmon Azim
+B) Xurshid Davron
+C) Erkin A'zam
+D) Tog'ay Murod
+Javob: A
+
+176. Savol: O'zbekistonda ma'rifiy va tarixiy nasr vakili, "Samarqand xiyoli", "Bibixonim qissasi" asarlari muallifi kim?
+A) Xurshid Davron
+B) Usmon Azim
+C) Erkin A'zam
+D) Nazar Eshonqul
+Javob: A
+
+177. Savol: "Otamdan qolgan dalalar", "Otkizilgan kunlar", "Oydinda yurgan odamlar" qissalari muallifi, o'ziga xos xalqona uslubga ega adib kim?
+A) Tog'ay Murod
+B) Erkin A'zam
+C) Shukur Xolmirzayev
+D) Utkir Hoshimov
+Javob: A
+
+178. Savol: Tog'ay Murodning sho'ro tuzumida o'zbek dehqonining fojiali taqdiri va mehnati yoritilgan romani qanday nomlanadi?
+A) "Otamdan qolgan dalalar"
+B) "Momo yer"
+C) "O'zbeklar"
+D) "Qora kamar"
+Javob: A
+
+179. Savol: O'zbek hikoyachiligi va dramaturgiyasining yirik vakili, "Qora kamar", "O'zbek xarakteri", "Dinozavr" hikoyalari muallifi kim?
+A) Shukur Xolmirzayev
+B) Tog'ay Murod
+C) Erkin A'zam
+D) Murad Muhammad Do me'st
+Javob: A
+
+180. Savol: Erkin A'zamning zamonaviy ziyolilar va insoniy munosabatlar fosh etilgan mashhur asari / kinostsenariysi qaysi?
+A) "Jannat qidirganlar" / "Peyzaj" / "Shovqin"
+B) "Otamdan qolgan dalalar"
+C) "Ufq"
+D) "Qora kamar"
+Javob: A
+
+181. Savol: Murad Muhammad Do'stning sovet tuzumining inqirozi va qishloq hayotidagi evrilishlar haqida yozilgan romani qanday nomlanadi?
+A) "Lolazor"
+B) "Galatepaga qaytish"
+C) "Muzxona"
+D) "Iste'foga chiqqan odam"
+Javob: A
+
+182. Savol: Modernizm va uslubiy izlanishlar vakili, "Maymun etaklagon odam", "G'or", "Bahoriy xazon" hikoyalari muallifi kim?
+A) Nazar Eshonqul
+B) Abduqayum Yo'ldoshev
+C) Erkin A'zam
+D) Shukur Xolmirzayev
+Javob: A
+
+183. Savol: Alisher Navoyining "Xamsa" dostonlari qaysi vaznda yozilgan?
+A) Aruz vaznining bahrlarida (masalan, Hazaj, Ramal, Mutaqorib va b.)
+B) Faqat Barmoq vaznida
+C) Erkin vaznda
+D) Sarbastda
+Javob: A
+
+184. Savol: Aruz vaznida qisqa va uzun bo'g'inlarning muayyan tartibda takrorlanishiga nima deyiladi?
+A) Rukn
+B) Bahr
+C) Turoq
+D) Qofiya
+Javob: A
+
+185. Savol: Barmoq vaznining asosiy o me'lchov birligi nima hisoblanadi?
+A) Bo'g'in va turoq
+B) Rukn
+C) Hajo
+D) Bayt
+Javob: A
+
+186. Savol: G'azal janrining tuzilishi va qofiyalanish tartibi qanday?
+A) aa, ba, ca, da... (birinchi bayt qofiyadosh, keyingilarining ikkinchi misrasi mos keladi)
+B) abab, cdcd
+C) aaaa, bbbb
+D) abba, cddc
+Javob: A
+
+187. Savol: G'azalning birinchi bayti va oxirgi bayti mos ravishda qanday nomlanadi?
+A) Matla va Maqta
+B) Maqta va Matla
+C) Fard va Bayt
+D) Tarje'band va Tarkibband
+Javob: A
+
+188. Savol: Shoir o'z taxallusini g'azalning qaysi baytida qo'llaydi?
+A) Maqta (oxirgi baytda)
+B) Matla (birinchi baytda)
+C) Hasan-matla
+D) Xohlagan baytida
+Javob: A
+
+189. Savol: Ruboiy janri nechta misradan iborat bo'ladi va u asosan qaysi vaznda yoziladi?
+A) 4 misradan (aaba yoki aaaa); Aruzning Hazaj bahrida
+B) 2 misradan
+C) 6 misradan
+D) 8 misradan
+Javob: A
+
+190. Savol: Qit'a janri ruboiydan nimasi bilan farq qiladi?
+A) Qit'ada matla bo'lmaydi (qofiyalanishi ab, cb, db...) va unda taxallus shart emas
+B) Qit'a 10 misra bo'ladi
+C) Qit'ada faqat muhabbat kuylanadi
+D) Farqi yo'q
+Javob: A
+
+191. Savol: Tuyuq janrining asosiy xususiyati nimada?
+A) 4 misradan iborat bo'lib, tuyuqda tajnisli (omonim) qofiya qo'llanilishi
+B) U faqat fors tilida yozilishi
+C) U 100 baytdan oshishi
+D) Unda faqat maqsus vazn bo'lishi
+Javob: A
+
+192. Savol: Bitta mustaqil baytdan iborat bo'lgan va tugallangan fikrni anglatuvchi she'riy shakl qanday nomlanadi?
+A) Fard
+B) Qit'a
+C) Ruboiy
+D) Masnaviy
+Javob: A
+
+193. Savol: Masnaviy janrining qofiyalanish tartibi qanday?
+A) aa, bb, cc, dd... (har bir bayti o'zaro qofiyalanadi)
+B) aa, ba, ca
+C) abab, cdcd
+D) aaaa, bbbb
+Javob: A
+
+194. Savol: Tazkiranavislik nimani anglatadi?
+A) Shoirlarning tarjimai holi va ijodidan namunalar beruvchi to'plam
+B) Lug'at tuzish san'ati
+C) Doston yozish qoidasi
+D) Badiiy drama turi
+Javob: A
+
+195. Savol: Badiiy tasvir vositalaridan "Tashbih" nimani anglatadi?
+A) O'xshatishni
+B) Sifatlashni
+C) Muboalag'ani
+D) Jonlantirishni
+Javob: A
+
+196. Savol: Badiiy san'atlarda "Tazod" san'ati nimaga asoslanadi?
+A) Qarama-qarshi tushuncha va so'zlarni qo'llashga
+B) So'z o'yiniga
+C) Bo me'rtirishga
+D) Tajnisga
+Javob: A
+
+197. Savol: "Jonlantirish" (Tashxis va Intoq) san'ati nimani anglatadi?
+A) Jonsiz narsalarga insoniy xususiyat berish va ularni gapirtirish
+B) Narsalarni oshirib tasvirlash
+C) Kamaytirib ko'rsatish
+D) Ma'nodosh so'zlarni yig'ish
+Javob: A
+
+198. Savol: Badiiy san'at "Mubolag'a" (Giperbola) nima?
+A) Voqea yoki hodisani bo'rttirib, oshirib tasvirlash
+B) Kamaytirib ko'rsatish (Litota)
+C) Qarama-qarshilik
+D) Savol berish
+Javob: A
+
+199. Savol: "Talmih" badiiy san'atining mohiyati nimada?
+A) Taniqli tarixiy voqea, shaxs yoki adabiy qahramonga ishora qilish
+B) Tashqi ko'rinishni tasvirlash
+C) Qofiya tuzilishi
+D) Unlilar takrori
+Javob: A
+
+200. Savol: "Tajnis" san'ati she me'riyatda qanday hosil bo'ladi?
+A) Shakldosh (omonim) so'zlarni qofiya o'rnida qo'llash orqali
+B) Ma'nodosh so me'zlar bilan
+C) Sifatlar yordamida
+D) Vaznni o'zgartirish bilan
+Javob: A
+
+================================================================================
+                           TESTLAR JAVOBLARI KALITI
+================================================================================
+1-A  2-B  3-B  4-C  5-A  6-B  7-A  8-B  9-C  10-A
+11-B 12-A 13-A 14-C 15-A 16-A 17-A 18-D 19-A 20-A
+21-A 22-A 23-A 24-A 25-A 26-A 27-A 28-A 29-A 30-A
+31-A 32-A 33-A 34-A 35-A 36-A 37-A 38-A 39-A 40-A
+41-A 42-A 43-A 44-A 45-A 46-A 47-A 48-A 49-A 50-A
+51-A 52-A 53-A 54-A 55-A 56-A 57-B 58-A 59-A 60-A
+61-A 62-A 63-A 64-A 65-A 66-A 67-A 68-A 69-A 70-A
+71-A 72-A 73-A 74-A 75-A 76-A 77-A 78-A 79-A 80-A
+81-A 82-A 83-B 84-A 85-A 86-A 87-A 88-A 89-A 90-A
+91-A 92-A 93-A 94-A 95-A 96-A 97-A 98-A 99-A 100-A
+101-A 102-A 103-A 104-A 105-A 106-A 107-A 108-A 109-A 110-A
+111-A 112-A 113-A 114-A 115-A 116-A 117-A 118-B 119-A 120-A
+121-A 122-A 123-A 124-A 125-A 126-A 127-A 128-A 129-A 130-A
+131-A 132-A 133-A 134-A 135-A 136-A 137-A 138-A 139-A 140-A
+141-A 142-A 143-A 144-A 145-A 146-A 147-A 148-A 149-A 150-A
+151-A 152-A 153-A 154-A 155-A 156-A 157-A 158-A 159-A 160-A
+161-A 162-A 163-A 164-A 165-A 166-A 167-A 168-A 169-A 170-A
+171-A 172-A 173-A 174-A 175-A 176-A 177-A 178-A 179-A 180-A
+181-A 182-A 183-A 184-A 185-A 186-A 187-A 188-A 189-A 190-A
+191-A 192-A 193-A 194-A 195-A 196-A 197-A 198-A 199-A 200-A
+================================================================================

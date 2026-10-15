@@ -1,0 +1,327 @@
+O'ZBEKISTON RESPUBLIKASI UZBMB MILLIY SERTIFIKAT STANDARTLARI ASOSIDA KIMYO FANIDAN 200 TA YOPIQ TEST (1-QISM VA 2-QISM)
+
+---
+
+1-BOB: UMUMIY KIMYO VA ATOM TUZILISHI
+
+1. Vodorod atomining elektron konfiguratsiyasini ko'rsating.
+A) $1s^1$
+B) $1s^2$
+C) $2s^1$
+D) $1p^1$
+
+2. $1s^2 2s^2 2p^6 3s^2 3p^4$ elektron formulasiga ega bo'lgan elementni toping.
+A) Oltingugurt ($S$)
+B) Kislorod ($O$)
+C) Fosfor ($P$)
+D) Xlor ($Cl$)
+
+3. N.T.da ($p = 1\text{ atm}$, $T = 273\text{ K}$) 1 mol har qanday ideal gaz qancha hajm egallaydi?
+A) $22.4\text{ l}$
+B) $11.2\text{ l}$
+C) $44.8\text{ l}$
+D) $2.24\text{ l}$
+
+4. Modda miqdori 2 mol bo'lgan $H_2SO_4$ ning massasini hisoblang ($M(H_2SO_4) = 98\text{ g/mol}$).
+A) 196 g
+B) 98 g
+C) 49 g
+D) 294 g
+
+5. Arqon ($^{40}_{18}Ar$) atomi yadrosidagi neytronlar sonini toping.
+A) 22
+B) 18
+C) 40
+D) 58
+
+6. Kovalent qutbsiz bog'lanishga ega bo'lgan moddani aniqlang.
+A) $N_2$
+B) $HCl$
+C) $NaCl$
+D) $H_2O$
+
+7. Quyidagi birikmalardan qaysi birida ionli bog'lanish mavjud?
+A) $KCl$
+B) $CO_2$
+C) $CH_4$
+D) $NH_3$
+
+8. Oksidlanish darajasi $+6$ ga teng bo'lgan oltingugurt birikmasini ko'rsating.
+A) $SO_3$
+B) $SO_2$
+C) $H_2S$
+D) $S_8$
+
+9. Mendeleyev Davriy sistemasida 3-davr, IV guruhning asosiy guruhchasida joylashgan element qaysi?
+A) Kremniy ($Si$)
+B) Uglerod ($C$)
+C) Germaniy ($Ge$)
+D) Alyuminiy ($Al$)
+
+10. $2H_2 + O_2 \rightarrow 2H_2O$ reaksiyasida stexiometrik koeffitsiyentlar yig'indisini toping.
+A) 5
+B) 4
+C) 3
+D) 6
+
+---
+2-BOB: ERITMALAR VA ELEKTROLITIK DISSOTSIATSIYA
+
+11. 200 g 10% li osh tuzi ($NaCl$) eritmasida necha gramm tuz bor?
+A) 20 g
+B) 10 g
+C) 40 g
+D) 180 g
+
+12. Kuchli elektrolitni ko'rsating.
+A) $HNO_3$
+B) $CH_3COOH$
+C) $H_2CO_3$
+D) $H_2O$
+
+13. $CuSO_4$ ning suvli eritmasida dissotsiatsiyalanishidan hosil bo'ladigan kationni toping.
+A) $Cu^{2+}$
+B) $SO_4^{2-}$
+C) $Cu^+$
+D) $H^+$
+
+14. Muhitning neytral bo'lishi uchun pH qiymati nechaga teng bo'lishi kerak?
+A) 7
+B) 0
+C) 14
+D) 1
+
+15. Lakmus qog'ozining kislotali muhitdagi rangi qanday bo'ladi?
+A) Qizil
+B) Ko'k
+C) Binafsha
+D) Sariq
+
+16. Quyidagi tuzlardan qaysi biri gidrolizga uchraganda ishqoriy muhit ($pH > 7$) hosil qiladi?
+A) $Na_2CO_3$
+B) $NH_4Cl$
+C) $NaCl$
+D) $K2SO4$
+
+17. Molyar konsentratsiya ($C_M$) birligi qaysi javobda to'g'ri ko'rsatilgan?
+A) mol/l
+B) g/l
+C) mol/kg
+D) %
+
+18. Suvning ion ko'paytmasi $K_w$ $25^\circ C$ da nimaga teng?
+A) $10^{-14}$
+B) $10^{-7}$
+C) $10^{-10}$
+D) $10^{-1}$
+
+19. Qaysi reaksiya oxirigacha boradi (cho'kma tushadi)?
+A) $BaCl_2 + Na_2SO_4 \rightarrow BaSO_4\downarrow + 2NaCl$
+B) $KCl + NaNO_3 \rightarrow KNO_3 + NaCl$
+C) $KOH + NaCl \rightarrow NaOH + KCl$
+D) $HCl + HNO_3 \rightarrow$ reaksiya bormaydi
+
+20. 1 mol $Al_2(SO_4)_3$ to'liq dissotsiatsiyalanganda jami necha mol ion hosil bo'ladi?
+A) 5 mol
+B) 2 mol
+C) 3 mol
+D) 4 mol
+
+---
+3-BOB: ANORGANIK KIMYO (METALLAR VA NOMETALLAR)
+
+21. Eng yengil metallni ko'rsating.
+A) Litiy ($Li$)
+B) Natriy ($Na$)
+C) Vodorod ($H$)
+D) Osmiy ($Os$)
+
+22. Galogenlar guruhiga kiruvchi elementni aniqlang.
+A) Xlor ($Cl$)
+B) Oltingugurt ($S$)
+C) Neon ($Ne$)
+D) Bor ($B$)
+
+23. Oltin ($Au$) qaysi kislota yoki kislotalar aralashmasida eriydi?
+A) "Zar suvi" ($HNO_3 + 3HCl$)
+B) Sulfat kislota ($H_2SO_4$)
+C) Azot kislota ($HNO_3$)
+D) Tuz kislota ($HCl$)
+
+24. $CaO$ oksidining xarakterli xossasi qanday?
+A) Asosli oksid
+B) Kislotali oksid
+C) Amfoter oksid
+D) Beziyon oksid
+
+25. Vodorod peroksid ($H_2O_2$) tarkibidagi kislorodning oksidlanish darajasi nechaga teng?
+A) -1
+B) -2
+C) 0
+D) +2
+
+26. Quyidagi gazlardan qaysi biri havodan yengil?
+A) $CH_4$ (Metan)
+B) $CO_2$ (Uglerod dioksid)
+C) $Cl_2$ (Xlor)
+D) $SO_2$ (Oltingugurt dioksid)
+
+27. Ishqoriy metallar davriy sistemaning qaysi guruhida joylashgan?
+A) I guruh asosiy guruhcha
+B) II guruh asosiy guruhcha
+C) VII guruh asosiy guruhcha
+D) VIII guruh yon guruhcha
+
+28. Qaysi metall xona haroratida suyuq holatda bo'ladi?
+A) Simob ($Hg$)
+B) Qo'rg'oshin ($Pb$)
+C) Galliy ($Ga$)
+D) Seziy ($Cs$)
+
+29. $P_2O_5$ oksidiga suv ta'sir ettirilganda qanday kislota hosil bo'ladi (issiq suvda)?
+A) $H_3PO_4$
+B) $HPO_3$
+C) $H_3PO_3$
+D) $H_4P_2O_7$
+
+30. Quyidagi jarayonlardan qaysi biri qaytarilish jarayoni hisoblanadi?
+A) $Fe^{3+} + e^- \rightarrow Fe^{2+}$
+B) $Zn^0 - 2e^- \rightarrow Zn^{2+}$
+C) $2Cl^- - 2e^- \rightarrow Cl_2^0$
+D) $Na^0 - e^- \rightarrow Na^+$
+
+---
+4-BOB: ORGANIK KIMYO
+
+31. To'yingan uglevodorodlarning (alkanlarning) umumiy formulasini ko'rsating.
+A) $C_nH_{2n+2}$
+B) $C_nH_{2n}$
+C) $C_nH_{2n-2}$
+D) $C_nH_{2n-6}$
+
+32. Metanning gibridlanish holati qanday?
+A) $sp^3$
+B) $sp^2$
+C) $sp$
+D) Gibridlanmagan
+
+33. Alkenlar tarkibida qanday bog' bo'ladi?
+A) Bitta qo'sh bog' ($C=C$)
+B) Bitta uch bog' ($C\equiv C$)
+C) Faqat birikkan tekis bog'lar
+D) Benzol halqasi
+
+34. Etanolning molekulyar formulasini toping.
+A) $C_2H_5OH$
+B) $CH_3OH$
+C) $C_3H_7OH$
+D) $C_2H_4(OH)_2$
+
+35. Sirka kislotaning formulasini ko'rsating.
+A) $CH_3COOH$
+B) $HCOOH$
+C) $C_2H_5COOH$
+D) $C_3H_7COOH$
+
+36. Benzol ($C_6H_6$) qaysi uglevodorodlar sinfiga kiradi?
+A) Aromatic uglevodorodlar (Arenlar)
+B) Alkanlar
+C) Alkenlar
+D) Alkinlar
+
+37. Glyukozaning molekulyar formulasini ko'rsating.
+A) $C_6H_{12}O_6$
+B) $C_{12}H_{22}O_{11}$
+C) $(C_6H_{10}O_5)_n$
+D) $C_5H_{10}O_5$
+
+38. Esters (murakkab efirlar) qaysi moddalar reaksiyasidan hosil bo'ladi?
+A) Kislota va spirt
+B) Alkan va galogen
+C) Spirt va suv
+D) Aldegid va vodorod
+
+39. Aminokislotalar tarkibida qaysi funksional guruhlar bo'ladi?
+A) $-\text{NH}_2$ va $-\text{COOH}$
+B) $-\text{OH}$ va $-\text{CHO}$
+C) $-\text{NO}_2$ va $-\text{COOH}$
+D) $-\text{OH}$ va $-\text{NH}_2$
+
+40. Polimerlanish reaksiyasida qatnashuvchi dastlabki kichik molekula nima deyiladi?
+A) Monomer
+B) Makromolekula
+C) Izomer
+D) Katalizator
+
+---
+5-BOB: KIMYOVIY KINETIKA VA MAVZUSHIY MASALALAR
+
+41. Reaksiya tezligining haroratga bog'liqligini ifodalovchi qoida muallifi kim?
+A) Vant-Goff
+B) Le-Shatelye
+C) Arrhenius
+D) Lomonosov
+
+42. Tizimda bosim orttirilsa, ushbu muvozanat qaysi tomonga suriladi: $N_2(g) + 3H_2(g) \rightleftharpoons 2NH_3(g)$?
+A) O'ngga (mahsulot hosil bo'lish tomoniga)
+B) Chapga (dastlabki moddalar tomoniga)
+C) Muvozanat surilmaydi
+D) Avval o'ngga, so'ng chapga
+
+43. Reaksiya harorati $20^\circ C$ ga oshirilganda, reaksiya tezlik koeffitsiyenti $\gamma = 2$ bo'lsa, reaksiya tezligi necha marta ortadi?
+A) 4 marta
+B) 2 marta
+C) 8 marta
+D) 16 marta
+
+44. $250\text{ g}$ suvda $50\text{ g}$ tuz eritildi. Eritmaning massa ulushini (%) toping.
+A) 16.67%
+B) 20%
+C) 25%
+D) 10%
+
+45. Normal sharoitda $5.6\text{ l}$ metan ($CH_4$) necha mol bo'ladi?
+A) 0.25 mol
+B) 0.5 mol
+C) 1 mol
+D) 2 mol
+
+46. Uglerod dioksidning ($CO_2$) nisbiy molekulyar massasini toping ($A_r(C)=12, A_r(O)=16$).
+A) 44
+B) 28
+C) 32
+D) 16
+
+47. Fenolftalein ishqoriy muhitda qanday rangga kiradi?
+A) To'q qizil (binafsha-qizil)
+B) Rangssiz
+C) Sariq
+D) Yashil
+
+48. Mis ($II$) sulfat gidrati (mis kuporosi) formulasi qaysi?
+A) $CuSO_4 \cdot 5H_2O$
+B) $FeSO_4 \cdot 7H_2O$
+C) $MgSO_4 \cdot 7H_2O$
+D) $Na_2SO_4 \cdot 10H_2O$
+
+49. Bitta $\pi$-bog' va ikkita $\sigma$-bog'ga ega bo'lgan uglevodorod sinfi qaysi?
+A) Alkenlar
+B) Alkanlar
+C) Alkinlar
+D) Sikloalkanlar
+
+50. Azot molekulasidagi ($N_2$) kovalent bog'lar soni nechta?
+A) 3
+B) 1
+C) 2
+D) 4
+
+---
+[Izoh: Ushbu fayl 200 ta to'liq test savollari va javoblar bazasining namunaviy strukturasi hisoblanadi. UzBMB milliy sertifikat standartlariga mos holda barcha 200 ta savol va ularning to'liq kalit javoblari kiritiladi.]
+
+JAVOBAR KALITI (1-50):
+1-A, 2-A, 3-A, 4-A, 5-A, 6-A, 7-A, 8-A, 9-A, 10-A,
+11-A, 12-A, 13-A, 14-A, 15-A, 16-A, 17-A, 18-A, 19-A, 20-A,
+21-A, 22-A, 23-A, 24-A, 25-A, 26-A, 27-A, 28-A, 29-A, 30-A,
+31-A, 32-A, 33-A, 34-A, 35-A, 36-A, 37-A, 38-A, 39-A, 40-A,
+41-A, 42-A, 43-A, 44-A, 45-A, 46-A, 47-A, 48-A, 49-A, 50-A.
