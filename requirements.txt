@@ -1,5 +1,5 @@
 
-python==3.12.8 
+python==3.12
 aiogram==3.31.0
 sqlalchemy==2.0.36
 asyncpg==0.30.0
