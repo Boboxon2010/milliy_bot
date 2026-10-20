@@ -257,6 +257,7 @@ def render_math_to_image(question_text: str) -> BufferedInputFile:
                 for paragraph in clean_text.splitlines() or [""]
                 for line in (textwrap.wrap(paragraph, width=70) or [""])
             )
+            plain_wrapped = plain_wrapped.replace("\\", r"\\").replace("$", r"\$")
             ax.text(
                 0.03,
                 0.94,
@@ -273,14 +274,48 @@ def render_math_to_image(question_text: str) -> BufferedInputFile:
 
         image_buffer = io.BytesIO()
         try:
-            fig.savefig(
-                image_buffer,
-                format="png",
-                dpi=180,
-                bbox_inches="tight",
-                pad_inches=0.25,
-                facecolor="white",
-            )
+            try:
+                fig.savefig(
+                    image_buffer,
+                    format="png",
+                    dpi=180,
+                    bbox_inches="tight",
+                    pad_inches=0.25,
+                    facecolor="white",
+                )
+            except Exception:
+                logging.warning(
+                    "Math rendering failed during PNG export; using plain text.",
+                    exc_info=True,
+                )
+                image_buffer = io.BytesIO()
+                ax.clear()
+                ax.axis("off")
+                plain_wrapped = "\n".join(
+                    line
+                    for paragraph in clean_text.splitlines() or [""]
+                    for line in (textwrap.wrap(paragraph, width=70) or [""])
+                )
+                plain_wrapped = plain_wrapped.replace("\\", r"\\").replace("$", r"\$")
+                ax.text(
+                    0.03,
+                    0.94,
+                    plain_wrapped,
+                    fontsize=18,
+                    linespacing=1.5,
+                    wrap=True,
+                    va="top",
+                    ha="left",
+                    color="#111111",
+                )
+                fig.savefig(
+                    image_buffer,
+                    format="png",
+                    dpi=180,
+                    bbox_inches="tight",
+                    pad_inches=0.25,
+                    facecolor="white",
+                )
         finally:
             plt.close(fig)
 

@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Movies catalog</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css">
+  <style>
+    body { background: #fff; color: #212529; }
+    h1.page-title { font-size: 1.75rem; font-weight: 500; margin: 12px 0 18px; }
+    .sidebar h2 { font-size: 2rem; font-weight: 500; margin-top: 1.4rem; }
+    .sidebar .form-control { margin-bottom: 14px; color: #495057; }
+    .sidebar .list-group-item { padding: .65rem .9rem .75rem; }
+    .sidebar .list-group-item .title { font-size: .95rem; font-weight: 500; display: block; margin-bottom: 4px; }
+    .results-title { font-size: 1.15rem; font-weight: 600; margin-bottom: 10px; }
+    .alert-info { font-size: .9rem; padding: .7rem 1.1rem; }
+    .movie-card { border-radius: 4px; overflow: hidden; }
+    .poster {
+      height: 178px; position: relative; display: flex; align-items: flex-end; justify-content: center;
+      color: #fff; background-size: cover; background-position: center; border-bottom: 2px solid #111;
+    }
+    .poster span { font-weight: 700; letter-spacing: .28em; font-size: 1.05rem; margin-bottom: 8px; text-shadow: 0 1px 3px rgba(0,0,0,.8); }
+    .poster.p1 { background: linear-gradient(180deg,#4a5a3a 0%,#3a4636 45%,#1c2218 100%); }
+    .poster.p2 { background: radial-gradient(circle at 50% 45%,#c0392b 0%,#7b1f1a 35%,#2a1a14 100%); }
+    .poster.p3 { background: linear-gradient(180deg,#2d3a5a 0%,#1a2238 100%); }
+    .poster.p4 { background: linear-gradient(180deg,#5a3a2d 0%,#2a1a14 100%); }
+    .poster.p5 { background: linear-gradient(180deg,#3a5a5a 0%,#18282a 100%); }
+    .movie-card .card-body { padding: 1rem 1.1rem 1.1rem; }
+    .movie-card .card-title { font-size: 1.1rem; margin-bottom: .5rem; }
+    mark.hl { background: #fff4d6; padding: 6px 0 6px; color: inherit; }
+    .meta { display: flex; align-items: center; font-size: .9rem; margin-bottom: .7rem; }
+    .meta svg { margin-right: 8px; }
+    .meta.rating { margin-top: 1.1rem; margin-bottom: 1.1rem; }
+    .movie-card .btn { font-size: .78rem; padding: .25rem .55rem; }
+    .pagination { margin-top: 2rem; }
+    .pagination .page-link { font-size: .85rem; padding: .5rem .72rem; color: #337ab7; }
+    .pagination .page-item.active .page-link { background: #2f7df6; border-color: #2f7df6; color: #fff; }
+    #btnSearch { background: #2f7df6; border-color: #2f7df6; }
+  </style>
+</head>
+<body>
+<div class="container">
+  <h1 class="page-title text-center">Movies catalog</h1>
+
+  <div class="row justify-content-center">
+    <!-- LEFT: form + bookmarks -->
+    <aside class="col-md-4 col-lg-3 sidebar" style="max-width: 300px;">
+      <form id="searchForm" autocomplete="off">
+        <input type="text" id="qInput" class="form-control" value="ave" placeholder="Movie title">
+        <input type="number" id="ratingInput" class="form-control" value="5" min="0" max="10" step="0.1" placeholder="Min rating">
+        <select id="genreSelect" class="custom-select form-control">
+          <option value="all" selected>All</option>
+          <option value="action">Action</option>
+          <option value="drama">Drama</option>
+          <option value="animation">Animation</option>
+        </select>
+        <select id="sortSelect" class="custom-select form-control">
+          <option value="rating-desc" selected>Rating (high to low)</option>
+          <option value="rating-asc">Rating (low to high)</option>
+          <option value="year-desc">Year (new to old)</option>
+          <option value="year-asc">Year (old to new)</option>
+        </select>
+        <button type="submit" id="btnSearch" class="btn btn-primary btn-block">Search</button>
+      </form>
+
+      <h2>Bookmarked movies</h2>
+      <ul class="list-group" id="bookmarkList"></ul>
+    </aside>
+
+    <!-- RIGHT: results -->
+    <main class="col-md-8 col-lg-7">
+      <div class="results-title" id="resultsTitle">Search results: 0</div>
+      <div class="alert alert-info" role="alert">Use the form on the left to search for a movie</div>
+      <div class="row" id="movieList"></div>
+      <nav aria-label="Pages"><ul class="pagination justify-content-center" id="pagination"></ul></nav>
+    </main>
+  </div>
+</div>
+
+<script>
+  const PER_PAGE = 2;
+  const movies = [
+    { id: 1, title: "Avengers: Infinity War", year: 2018, rating: 8.7, genre: "action", poster: "p1", label: "OFFICIAL TRAILER" },
+    { id: 2, title: "The Avengers", year: 2012, rating: 8.1, genre: "action", poster: "p2", label: "" },
+    { id: 3, title: "Avengers: Endgame", year: 2019, rating: 8.4, genre: "action", poster: "p3", label: "OFFICIAL TRAILER" },
+    { id: 4, title: "Avengers: Age of Ultron", year: 2015, rating: 7.3, genre: "action", poster: "p4", label: "" },
+    { id: 5, title: "12 Years a Slave", year: 2013, rating: 8.1, genre: "drama", poster: "p5", label: "" },
+    { id: 6, title: "Brave", year: 2012, rating: 7.1, genre: "animation", poster: "p1", label: "" },
+    { id: 7, title: "Wave Rider", year: 2016, rating: 6.4, genre: "drama", poster: "p3", label: "" },
+    { id: 8, title: "Cave of Dreams", year: 2010, rating: 5.9, genre: "drama", poster: "p4", label: "" }
+  ];
+  let bookmarks = [1, 2, 5];   // like in the screenshot
+  let page = 1;
+  let filtered = [];
+
+  const $ = id => document.getElementById(id);
+  const esc = s => s.replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+
+  function highlight(title, q) {
+    if (!q) return esc(title);
+    const i = title.toLowerCase().indexOf(q.toLowerCase());
+    if (i < 0) return esc(title);
+    return esc(title.slice(0, i)) + '<mark class="hl">' + esc(title.slice(i, i + q.length)) + "</mark>" + esc(title.slice(i + q.length));
+  }
+
+  const calendarIcon = '<svg width="20" height="20" viewBox="0 0 16 16" fill="#000"><path d="M3.5 0a.5.5 0 0 1 .5.5V1h8V.5a.5.5 0 0 1 1 0V1h1a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V3a2 2 0 0 1 2-2h1V.5a.5.5 0 0 1 .5-.5zM1 4v10a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V4H1z"/></svg>';
+  const starIcon = '<svg width="20" height="20" viewBox="0 0 16 16" fill="#f5c518"><path d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.282.95l-3.522 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z"/></svg>';
+
+  function applyFilters() {
+    const q = $("qInput").value.trim().toLowerCase();
+    const minR = parseFloat($("ratingInput").value) || 0;
+    const genre = $("genreSelect").value;
+    const sort = $("sortSelect").value;
+
+    filtered = movies.filter(m =>
+      m.title.toLowerCase().includes(q) && m.rating >= minR && (genre === "all" || m.genre === genre));
+
+    const [key, dir] = sort.split("-");
+    filtered.sort((a, b) => dir === "desc" ? b[key] - a[key] : a[key] - b[key]);
+    page = 1;
+    render();
+  }
+
+  function render() {
+    const q = $("qInput").value.trim();
+    $("resultsTitle").textContent = "Search results: " + filtered.length;
+
+    const start = (page - 1) * PER_PAGE;
+    const items = filtered.slice(start, start + PER_PAGE);
+    $("movieList").innerHTML = items.map(m => `
+      <div class="col-md-6 mb-3">
+        <div class="card movie-card h-100">
+          <div class="poster ${m.poster}"><span>${m.label}</span></div>
+          <div class="card-body">
+            <h5 class="card-title">${highlight(m.title, q)}</h5>
+            <div class="meta">${calendarIcon}<span>${m.year}</span></div>
+            <div class="meta rating">${starIcon}<span>${m.rating}</span></div>
+            <div class="d-flex justify-content-between">
+              <button class="btn btn-outline-primary" type="button">Watch trailer</button>
+              <button class="btn btn-outline-primary" type="button">More info</button>
+              <button class="btn btn-outline-success" type="button" data-bookmark="${m.id}">Bookmark</button>
+            </div>
+          </div>
+        </div>
+      </div>`).join("");
+
+    const pages = Math.ceil(filtered.length / PER_PAGE);
+    $("pagination").innerHTML = Array.from({ length: pages }, (_, i) => `
+      <li class="page-item ${i + 1 === page ? "active" : ""}">
+        <a class="page-link" href="#" data-page="${i + 1}">${i + 1}</a>
+      </li>`).join("");
+
+    renderBookmarks();
+  }
+
+  function renderBookmarks() {
+    $("bookmarkList").innerHTML = bookmarks.map(id => {
+      const m = movies.find(x => x.id === id);
+      return `<li class="list-group-item">
+        <span class="title">${esc(m.title)}</span>
+        <button class="btn btn-danger btn-sm" type="button" data-remove="${id}">Remove</button>
+      </li>`;
+    }).join("");
+  }
+
+  $("searchForm").addEventListener("submit", e => { e.preventDefault(); applyFilters(); });
+
+  $("pagination").addEventListener("click", e => {
+    const a = e.target.closest("[data-page]");
+    if (!a) return;
+    e.preventDefault();
+    page = +a.dataset.page;
+    render();
+  });
+
+  $("movieList").addEventListener("click", e => {
+    const b = e.target.closest("[data-bookmark]");
+    if (!b) return;
+    const id = +b.dataset.bookmark;
+    if (!bookmarks.includes(id)) { bookmarks.push(id); renderBookmarks(); }
+  });
+
+  $("bookmarkList").addEventListener("click", e => {
+    const b = e.target.closest("[data-remove]");
+    if (!b) return;
+    bookmarks = bookmarks.filter(id => id !== +b.dataset.remove);
+    renderBookmarks();
+  });
+
+  applyFilters();
+</script>
+</body>
+</html>

@@ -48,11 +48,14 @@ async def cmd_essay_ai(message: Message, state: FSMContext):
 @router.callback_query(F.data == "essay_back_menu")
 async def back_to_essay_menu(callback: CallbackQuery, state: FSMContext):
     await state.clear()
-    await callback.message.edit_text(
-        "<b>🏛 UzBMB Milliy Sertifikat Esse AI Evaluator</b>\n\nKerakli bo'limni tanlang:",
-        reply_markup=get_essay_menu_keyboard(),
-        parse_mode="HTML"
-    )
+    try:
+        await callback.message.edit_text(
+            "<b>🏛 UzBMB Milliy Sertifikat Esse AI Evaluator</b>\n\nKerakli bo'limni tanlang:",
+            reply_markup=get_essay_menu_keyboard(),
+            parse_mode="HTML"
+        )
+    except Exception:
+        pass
     await callback.answer()
 
 

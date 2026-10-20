@@ -58,7 +58,7 @@ B) Uglerod ($C$)
 C) Germaniy ($Ge$)
 D) Alyuminiy ($Al$)
 
-10. $2H_2 + O_2 \rightarrow 2H_2O$ reaksiyasida stexiometrik koeffitsiyentlar yig'indisini toping.
+10.$2H_2 + O_2 \rightarrow 2H_2O$ reaksiyasida stexiometrik koeffitsiyentlar yig'indisini toping.
 A) 5
 B) 4
 C) 3
